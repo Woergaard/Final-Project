@@ -1,0 +1,137 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc} % allow utf-8 input
+\usepackage[T1]{fontenc}    % use 8-bit T1 fonts
+\usepackage{hyperref}       % hyperlinks
+\usepackage{url}            % simple URL typesetting
+\usepackage{booktabs}       % professional-quality tables
+\usepackage{amsfonts}       % blackboard math symbols
+\usepackage{nicefrac}       % compact symbols for 1/2, etc.
+\usepackage{microtype}      % microtypography
+\usepackage{lipsum}		% Can be removed after putting your text content
+\usepackage{graphicx}
+\usepackage{natbib}
+\usepackage{doi}
+\usepackage{graphicx}
+\usepackage{placeins}
+\usepackage{multirow}
+\usepackage[flushleft]{threeparttable}
+\usepackage{listings}
+\usepackage{color}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{arydshln}
+\usepackage{rotating}
+\usepackage{pdflscape}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{geometry}
+ \geometry{
+ a4paper,
+ total={170mm,257mm},
+ left=20mm,
+ top=20mm,
+ }
+\usepackage{import}
+\usepackage{adjustbox}
+
+
+\begin{document}
+
+
+\begin{landscape}
+    \subsection*{Model on FakeNewsCorpus without metadata}
+    \begin{adjustbox}{scale = 0.75}
+        \centering      
+        \import{../tables}{table_content.tex}
+    \end{adjustbox}
+\end{landscape}
+
+\newpage
+
+\import{../figs}{fig_content.tex}
+
+
+\newpage
+
+
+\begin{landscape}
+    \subsection*{Model on FakeNewsCorpus with metadata}
+    \begin{adjustbox}{scale = 0.75}
+        \centering      
+        \import{../tables}{table_content_title.tex}
+    \end{adjustbox}
+\end{landscape}
+
+\newpage
+
+\import{../figs}{fig_content_title.tex}
+
+
+\newpage
+
+
+\begin{landscape}
+    \subsection*{Model on FakeNewsCorpus only with metadata}
+    \begin{adjustbox}{scale = 0.75}
+        \centering      
+        \import{../tables}{table_title.tex}
+    \end{adjustbox}
+\end{landscape}
+
+\newpage
+
+\import{../figs}{fig_title.tex}
+
+
+\newpage
+
+
+\begin{landscape}
+    \subsection*{Model on LIAR dataset without metadata}
+    \begin{adjustbox}{scale = 0.75}
+        \centering      
+        \import{../tables}{table_liar_content.tex}
+    \end{adjustbox}
+\end{landscape}
+
+\newpage
+
+\import{../figs}{fig_liar_content.tex}
+
+
+\newpage
+
+
+\begin{landscape}
+    \subsection*{Model on LIAR dataset with metadata}
+    \begin{adjustbox}{scale = 0.75}
+        \centering      
+        \import{../tables}{table_liar_content_title.tex}
+    \end{adjustbox}
+\end{landscape}
+
+\newpage
+
+\import{../figs}{fig_liar_content_title.tex}
+
+
+\newpage
+\begin{landscape}
+\subsection*{Model on LIAR dataset only with metadata}
+\begin{adjustbox}{scale = 0.75}
+    \centering      
+    \import{../tables}{table_liar_title.tex}
+\end{adjustbox}
+\end{landscape}
+
+\newpage
+
+\import{../figs}{fig_liar_title.tex}
+
+
+
+
+
+
+
+
+\end{document}
