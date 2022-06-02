@@ -25,7 +25,7 @@ A number of the folders contains subfolders with the subscript `_content`, `_con
 ## Requirements 
 In the file `fakenews predictor/requirements.txt` the requirements regarding libraries and packages needed to run the code can be found. 
 ## Usage
-To create the databases make sure that you have unzipped the .zip filed and that you have a user named `postgres` in your postgreSQL installation and that it has the rights to create a database. When this is in order create a database with a name of your choosing. If you are using postgreSQL directly in your terminal, quit your session by `\q` and write the following the your terminal: 
+To create the databases make sure that you have unzipped the .zip filed and that you have a user named `postgres` in your postgreSQL installation and that it has the rights to create a database. When this is in order create a database with a name of your choosing. If you are using postgreSQL directly in your terminal, quit your session by `\q` and write the following in your terminal: 
 
 ```psql databasename < database```
 
