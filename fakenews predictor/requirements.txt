@@ -1,0 +1,10 @@
+matplotlib
+pandas
+re
+string 
+pickle
+numpy 
+os 
+ast
+itertools
+nltk
