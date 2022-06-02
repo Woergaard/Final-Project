@@ -5,7 +5,8 @@ from modules.confusion_matrix_liar import *
 
 
 # importing train data
-data=pd.read_csv("data/1mio-raw.csv",error_bad_lines=False, nrows=1000000).sample(250000, random_state=44)
+data=pd.read_csv("data/1mio-raw.csv",error_bad_lines=False, nrows=1000000)
+data = data.drop_duplicates(subset = ['content'])
 
 # dropping the id, title and author column
 data=data[['type', 'content', 'title']]
@@ -20,9 +21,12 @@ data = data.reset_index(drop = True)
 data = data.drop_duplicates(subset = ['content'])
 data = data.reset_index(drop = True)
 
-data['label'] = [1 if data['type'].iloc[x] in ['fake','conspiracy','unreliable','junksci'] else 0 for x in range(len(data['type']))]
+data = data.sample(100000, random_state=44)
+
+data['label'] = [1 if data['type'].iloc[x] in ['fake','conspiracy','unreliable','junksci', 'rumor'] else 0 for x in range(len(data['type']))]
 
 # apply Clean Funsction to our Text
 data.content=[Clean(x) for x in data.content]
+data.title=[Clean(x) for x in data.title]
 
 data.to_csv("data/cleaned.csv", sep ='|')
