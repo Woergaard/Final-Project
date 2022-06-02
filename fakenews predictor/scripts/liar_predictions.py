@@ -28,8 +28,7 @@ LIAR['label'] = [1 if LIAR['type'].iloc[x] in ['false','pants-fire', 'fake'] els
 
 
 # Model list 
-liste = ["_TFIDF_LogisticRegression(solver='sag')_", 
-        "_ngram_2_LogisticRegression(solver='sag')_",
+liste = ["_ngram_2_LogisticRegression(solver='sag')_",
         "_ngram_3_LogisticRegression(max_iter=10000, n_jobs=-1, solver='saga')_", 
         "_ngram_2_SVC(kernel='linear')_", 
         "_ngram_3_SVC(kernel='linear')_", 
