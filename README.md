@@ -6,9 +6,9 @@ This repository contains all the code needed to run the FakeNews predictors whic
 * LIAR dataset: https://www.cs.ucsb.edu/~william/data/liar_dataset.zip
 
 ## Folder structure 
-The folder 'databases' contains two .zip file each containing a database for the data scraped of the WikiNews site and data from the FakeNews corpus. 
+The folder `databases` contains two .zip file each containing a database for the data scraped of the WikiNews site and data from the FakeNews corpus. 
 
-The folder 'fake news predictor' contains a number of subfolders. The folders are structured in the following way: 
+The folder `fake news predictor` contains a number of subfolders. The folders are structured in the following way: 
 
     .
     ├── classification           # Classification files          
