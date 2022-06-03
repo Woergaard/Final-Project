@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.30)  2 JUN 2022 20:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.30)  3 JUN 2022 09:16
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/main.tex"
-(/Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/main.tex
+**main.tex
+(./main.tex
 LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-18> (/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
+L3 programming layer <2021-02-18>
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
 (/usr/local/texlive/2021/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
@@ -22,60 +22,81 @@ File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2020/08/01 v1.3d Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
- (/usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (/usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
 \@linkdim=\dimen139
 \Hy@linkcounter=\count187
 \Hy@pagecounter=\count188
- (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
-File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel languages
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
+nguages
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count189
- (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -88,16 +109,20 @@ Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4445.
 \c@Hy@tempcnt=\count190
- (/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4804.
 \XeTeXLinkMargin=\dimen140
- (/usr/local/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- (/usr/local/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
 ))
 \Fld@menulength=\count191
 \Field@Width=\dimen141
@@ -111,8 +136,10 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6100.
 Package hyperref Info: PDF/A mode OFF on input line 6105.
 LaTeX Info: Redefining \ref on input line 6145.
 LaTeX Info: Redefining \pageref on input line 6149.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
-Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi package
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
 with kernel methods
 )
 \Hy@abspage=\count192
@@ -120,20 +147,26 @@ with kernel methods
 \c@Hfootnote=\count194
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hpdftex.def
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2021-02-27 v7.00k Hyperref driver for pdfTeX
- (/usr/local/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery package
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
 with kernel methods
 )
 \Fld@listcount=\count195
 \c@bookmark@seq@number=\count196
- (/usr/local/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
- (/usr/local/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
 )
 \Hy@SectionHShift=\skip49
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
@@ -155,7 +188,8 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count199
 \@lastruleclass=\count266
 \@thisrulewidth=\dimen155
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks18
 \symAMSa=\mathgroup4
@@ -163,14 +197,17 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/units/nicefrac.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/units/nicefrac.sty
 Package: nicefrac 1998/08/04 v0.9b Nice fractions
 \L@UnitsRaiseDisplaystyle=\skip50
 \L@UnitsRaiseTextstyle=\skip51
 \L@UnitsRaiseScriptstyle=\skip52
- (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)) (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype.sty
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2021/03/14 v2.8c Micro-typographical refinements (RS)
 \MT@toks=\toks19
 \MT@count=\count267
@@ -178,57 +215,78 @@ LaTeX Info: Redefining \textls on input line 790.
 \MT@outer@kern=\dimen156
 LaTeX Info: Redefining \textmicrotypecontext on input line 1374.
 \MT@listname@count=\count268
- (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2021/03/14 v2.8c Definitions specific to pdftex (RS)
+
 LaTeX Info: Redefining \lsstyle on input line 915.
 LaTeX Info: Redefining \lslig on input line 915.
 \MT@outer@space=\skip53
 )
 Package microtype Info: Loading configuration file microtype.cfg.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype.cfg
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2021/03/14 v2.8c microtype main configuration file (RS)
-)) (/usr/local/texlive/2021/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/lipsum/lipsum.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2021-02-18 L3 programming layer (loader) 
- (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count269
 \l__pdf_internal_box=\box47
-)) (/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex)))
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-
+01.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.
+tex)))
 Package: lipsum 2021-03-03 v2.3 150 paragraphs of Lorem Ipsum dummy text
  (/usr/local/texlive/2021/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
 File: lipsum.ltd.tex 2021-03-03 v2.3 The Lorem ipsum dummy text
-)) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
- (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
- (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen157
 \Gin@req@width=\dimen158
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/natbib/natbib.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip54
 \bibsep=\skip55
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count270
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/doi/doi.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/doi/doi.sty
 Package: doi 2018/09/09 handle doi numbers
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/placeins/placeins.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/multirow/multirow.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip56
 \multirow@cntb=\count271
 \multirow@dima=\skip57
 \bigstrutjot=\dimen159
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/threeparttable/threeparttable.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/threeparttable/threeparttable.sty
 Package: threeparttable 2003/06/13  v 3.0
 \@tempboxb=\box48
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/listings/listings.sty
@@ -244,24 +302,30 @@ Package: threeparttable 2003/06/13  v 3.0
 \lst@newlines=\count276
 \lst@lineno=\count277
 \lst@maxwidth=\dimen163
- (/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstmisc.sty
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 \c@lstnumber=\count278
 \lst@skipnumbers=\count279
 \lst@framebox=\box50
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/listings/listings.cfg
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
- (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/color.sty
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
- (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
- (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -275,9 +339,11 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/dvipsnam.def
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-)) (/usr/local/texlive/2021/texmf-dist/tex/latex/arydshln/arydshln.sty
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/arydshln/arydshln.sty
 Package: arydshln 2019/02/21 v1.76 
 \dashlinedash=\dimen164
 \dashlinegap=\dimen165
@@ -299,22 +365,27 @@ Package: arydshln 2019/02/21 v1.76
 \adl@clb=\count289
 \adl@everyvbox=\toks21
 \adl@LTpagetotal=\dimen171
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/rotating.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 \c@r@tfl@t=\count290
 \rotFPtop=\skip58
 \rotFPbot=\skip59
 \rot@float@box=\box52
 \rot@mess@toks=\toks22
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
- (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/lscape.sty
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2020/10/26 v3.5g Customizing captions (AR)
- (/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
 \captionmargin=\dimen172
 \captionmargin@=\dimen173
@@ -331,13 +402,16 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: rotating package is loaded.
 Package caption Info: threeparttable package is loaded.
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/caption/subcaption.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
 \c@subfigure=\count293
 \c@subtable=\count294
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count295
@@ -352,23 +426,32 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen185
 \Gm@layoutvoffset=\dimen186
 \Gm@dimlist=\toks23
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/import/import.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/import/import.sty
 Package: import 2020/04/01  v 6.2
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjustbox.sty
 Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
- (/usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
- (/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks24
 \XKV@tempa@toks=\toks25
 )
 \XKV@depth=\count298
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)) (/usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjcalc.sty
-Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/trimclip.sty
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/trimclip.sty
 Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
- (/usr/local/texlive/2021/texmf-dist/tex/latex/collectbox/collectbox.sty
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/collectbox/collectbox.sty
 Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
 \collectedbox=\box53
 )
@@ -377,7 +460,8 @@ Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
 \tc@urx=\dimen189
 \tc@ury=\dimen190
 Package trimclip Info: Using driver 'tc-pdftex.def'.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
 File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 ))
 \adjbox@Width=\dimen191
@@ -388,16 +472,19 @@ File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 \adjbox@pheight=\dimen196
 \adjbox@pdepth=\dimen197
 \adjbox@ptotalheight=\dimen198
- (/usr/local/texlive/2021/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
 Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
 \c@checkoddpage=\count299
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/varwidth/varwidth.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box54
 \sift@deathcycles=\count300
 \@vwid@loff=\dimen199
 \@vwid@roff=\dimen256
-)) (/Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/main.aux)
+))
+(./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
@@ -421,9 +508,11 @@ LaTeX Font Info:    ... okay on input line 37.
 Package hyperref Info: Link coloring OFF on input line 37.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
- (/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count301
@@ -431,7 +520,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 37.
 LaTeX Info: Redefining \pageref on input line 37.
 LaTeX Info: Redefining \nameref on input line 37.
- (/Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/main.out) (/Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/main.out)
+ (./main.out) (./main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
@@ -446,9 +535,12 @@ LaTeX Info: Redefining \showhyphens on input line 37.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
-) (/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count302
 \scratchdimen=\dimen257
@@ -463,9 +555,12 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 \everyMPtoPDFconversion=\toks27
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
 ))
 \c@lstlisting=\count308
 Package caption Info: Begin \AtBeginDocument code.
@@ -505,184 +600,257 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../tables/../tables/table_content.tex
+(../tables/../tables/table_content.tex
 LaTeX Font Info:    Trying to load font information for U+msa on input line 1.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-msa.cfg
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 1.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-msb.cfg
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )) [1
 
 
-{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (/Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content.tex
-<../figs/../figs/fig_content/fig_ngram_2_LogisticRegression(solver='sag')__content.png, id=12, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content/fig_ngram_2_LogisticRegression(solver='sag')__content.png Graphic file (type png)
-<use ../figs/../figs/fig_content/fig_ngram_2_LogisticRegression(solver='sag')__content.png>
-Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngram_2_LogisticRegression(solver='sag')__content.png  used on input line 8.
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(../figs/../figs/fig_content.tex
+<../figs/../figs/fig_content/fig_ngram_2_LogisticRegression(solver='sag')__cont
+ent.png, id=12, 462.528pt x 346.896pt>
+File: ../figs/../figs/fig_content/fig_ngram_2_LogisticRegression(solver='sag')_
+_content.png Graphic file (type png)
+<use ../figs/../figs/fig_content/fig_ngram_2_LogisticRegression(solver='sag')__
+content.png>
+Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngram_2_LogisticRegres
+sion(solver='sag')__content.png  used on input line 8.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 8--9
  [][] 
  []
 
-<../figs/../figs/fig_content/fig_ngram_3_LogisticRegression(max_iter=10000, n_jobs=-1, solver='saga')__content.png, id=14, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content/fig_ngram_3_LogisticRegression(max_iter=10000, n_jobs=-1, solver='saga')__content.png Graphic file (type png)
-<use ../figs/../figs/fig_content/fig_ngram_3_LogisticRegression(max_iter=10000, n_jobs=-1, solver='saga')__content.png>
-Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngram_3_LogisticRegression(max_iter=10000, n_jobs=-1, solver='saga')__content.png  used on input line 13.
+<../figs/../figs/fig_content/fig_ngram_3_LogisticRegression(max_iter=10000, n_j
+obs=-1, solver='saga')__content.png, id=14, 462.528pt x 346.896pt>
+File: ../figs/../figs/fig_content/fig_ngram_3_LogisticRegression(max_iter=10000
+, n_jobs=-1, solver='saga')__content.png Graphic file (type png)
+<use ../figs/../figs/fig_content/fig_ngram_3_LogisticRegression(max_iter=10000,
+ n_jobs=-1, solver='saga')__content.png>
+Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngram_3_LogisticRegres
+sion(max_iter=10000, n_jobs=-1, solver='saga')__content.png  used on input line
+ 13.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 13--14
  [][] 
  []
 
-<../figs/../figs/fig_content/fig_ngram_2_SVC(kernel='linear')__content.png, id=15, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content/fig_ngram_2_SVC(kernel='linear')__content.png Graphic file (type png)
+<../figs/../figs/fig_content/fig_ngram_2_SVC(kernel='linear')__content.png, id=
+15, 462.528pt x 346.896pt>
+File: ../figs/../figs/fig_content/fig_ngram_2_SVC(kernel='linear')__content.png
+ Graphic file (type png)
 <use ../figs/../figs/fig_content/fig_ngram_2_SVC(kernel='linear')__content.png>
-Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngram_2_SVC(kernel='linear')__content.png  used on input line 18.
+
+Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngram_2_SVC(kernel='li
+near')__content.png  used on input line 18.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 18--19
  [][] 
  []
 
-<../figs/../figs/fig_content/fig_ngram_3_SVC(kernel='linear')__content.png, id=16, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content/fig_ngram_3_SVC(kernel='linear')__content.png Graphic file (type png)
+<../figs/../figs/fig_content/fig_ngram_3_SVC(kernel='linear')__content.png, id=
+16, 462.528pt x 346.896pt>
+File: ../figs/../figs/fig_content/fig_ngram_3_SVC(kernel='linear')__content.png
+ Graphic file (type png)
 <use ../figs/../figs/fig_content/fig_ngram_3_SVC(kernel='linear')__content.png>
-Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngram_3_SVC(kernel='linear')__content.png  used on input line 23.
+
+Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngram_3_SVC(kernel='li
+near')__content.png  used on input line 23.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 23--24
  [][] 
  []
 
-<../figs/../figs/fig_content/fig_ngram_2_DecisionTreeClassifier()__content.png, id=17, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content/fig_ngram_2_DecisionTreeClassifier()__content.png Graphic file (type png)
-<use ../figs/../figs/fig_content/fig_ngram_2_DecisionTreeClassifier()__content.png>
-Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngram_2_DecisionTreeClassifier()__content.png  used on input line 31.
+<../figs/../figs/fig_content/fig_ngram_2_DecisionTreeClassifier()__content.png,
+ id=17, 462.528pt x 346.896pt>
+File: ../figs/../figs/fig_content/fig_ngram_2_DecisionTreeClassifier()__content
+.png Graphic file (type png)
+<use ../figs/../figs/fig_content/fig_ngram_2_DecisionTreeClassifier()__content.
+png>
+Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngram_2_DecisionTreeCl
+assifier()__content.png  used on input line 31.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 31--32
  [][] 
  []
 
-<../figs/../figs/fig_content/fig_ngram_3_DecisionTreeClassifier()__content.png, id=18, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content/fig_ngram_3_DecisionTreeClassifier()__content.png Graphic file (type png)
-<use ../figs/../figs/fig_content/fig_ngram_3_DecisionTreeClassifier()__content.png>
-Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngram_3_DecisionTreeClassifier()__content.png  used on input line 36.
+<../figs/../figs/fig_content/fig_ngram_3_DecisionTreeClassifier()__content.png,
+ id=18, 462.528pt x 346.896pt>
+File: ../figs/../figs/fig_content/fig_ngram_3_DecisionTreeClassifier()__content
+.png Graphic file (type png)
+<use ../figs/../figs/fig_content/fig_ngram_3_DecisionTreeClassifier()__content.
+png>
+Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngram_3_DecisionTreeCl
+assifier()__content.png  used on input line 36.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 36--37
  [][] 
  []
 
-<../figs/../figs/fig_content/fig_ngramKNN_2k=1_content.png, id=19, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content/fig_ngramKNN_2k=1_content.png Graphic file (type png)
+<../figs/../figs/fig_content/fig_ngramKNN_2k=1_content.png, id=19, 462.528pt x 
+346.896pt>
+File: ../figs/../figs/fig_content/fig_ngramKNN_2k=1_content.png Graphic file (t
+ype png)
 <use ../figs/../figs/fig_content/fig_ngramKNN_2k=1_content.png>
-Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngramKNN_2k=1_content.png  used on input line 41.
+Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngramKNN_2k=1_content.
+png  used on input line 41.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 41--42
  [][] 
  []
 
-<../figs/../figs/fig_content/fig_ngramKNN_2k=3_content.png, id=20, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content/fig_ngramKNN_2k=3_content.png Graphic file (type png)
+<../figs/../figs/fig_content/fig_ngramKNN_2k=3_content.png, id=20, 462.528pt x 
+346.896pt>
+File: ../figs/../figs/fig_content/fig_ngramKNN_2k=3_content.png Graphic file (t
+ype png)
 <use ../figs/../figs/fig_content/fig_ngramKNN_2k=3_content.png>
-Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngramKNN_2k=3_content.png  used on input line 46.
+Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngramKNN_2k=3_content.
+png  used on input line 46.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 46--47
  [][] 
  []
 
-<../figs/../figs/fig_content/fig_ngramKNN_2k=5_content.png, id=21, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content/fig_ngramKNN_2k=5_content.png Graphic file (type png)
+<../figs/../figs/fig_content/fig_ngramKNN_2k=5_content.png, id=21, 462.528pt x 
+346.896pt>
+File: ../figs/../figs/fig_content/fig_ngramKNN_2k=5_content.png Graphic file (t
+ype png)
 <use ../figs/../figs/fig_content/fig_ngramKNN_2k=5_content.png>
-Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngramKNN_2k=5_content.png  used on input line 54.
+Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngramKNN_2k=5_content.
+png  used on input line 54.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 54--55
  [][] 
  []
 
-<../figs/../figs/fig_content/fig_ngramKNN_2k=7_content.png, id=22, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content/fig_ngramKNN_2k=7_content.png Graphic file (type png)
+<../figs/../figs/fig_content/fig_ngramKNN_2k=7_content.png, id=22, 462.528pt x 
+346.896pt>
+File: ../figs/../figs/fig_content/fig_ngramKNN_2k=7_content.png Graphic file (t
+ype png)
 <use ../figs/../figs/fig_content/fig_ngramKNN_2k=7_content.png>
-Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngramKNN_2k=7_content.png  used on input line 59.
+Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngramKNN_2k=7_content.
+png  used on input line 59.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 59--60
  [][] 
  []
 
-<../figs/../figs/fig_content/fig_ngramKNN_2k=10_content.png, id=23, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content/fig_ngramKNN_2k=10_content.png Graphic file (type png)
+<../figs/../figs/fig_content/fig_ngramKNN_2k=10_content.png, id=23, 462.528pt x
+ 346.896pt>
+File: ../figs/../figs/fig_content/fig_ngramKNN_2k=10_content.png Graphic file (
+type png)
 <use ../figs/../figs/fig_content/fig_ngramKNN_2k=10_content.png>
-Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngramKNN_2k=10_content.png  used on input line 64.
+Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngramKNN_2k=10_content
+.png  used on input line 64.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 64--65
  [][] 
  []
 
-<../figs/../figs/fig_content/fig_ngramKNN_3k=1_content.png, id=24, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content/fig_ngramKNN_3k=1_content.png Graphic file (type png)
+<../figs/../figs/fig_content/fig_ngramKNN_3k=1_content.png, id=24, 462.528pt x 
+346.896pt>
+File: ../figs/../figs/fig_content/fig_ngramKNN_3k=1_content.png Graphic file (t
+ype png)
 <use ../figs/../figs/fig_content/fig_ngramKNN_3k=1_content.png>
-Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngramKNN_3k=1_content.png  used on input line 69.
+Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngramKNN_3k=1_content.
+png  used on input line 69.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 69--70
  [][] 
  []
 
-<../figs/../figs/fig_content/fig_ngramKNN_3k=3_content.png, id=25, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content/fig_ngramKNN_3k=3_content.png Graphic file (type png)
+<../figs/../figs/fig_content/fig_ngramKNN_3k=3_content.png, id=25, 462.528pt x 
+346.896pt>
+File: ../figs/../figs/fig_content/fig_ngramKNN_3k=3_content.png Graphic file (t
+ype png)
 <use ../figs/../figs/fig_content/fig_ngramKNN_3k=3_content.png>
-Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngramKNN_3k=3_content.png  used on input line 77.
+Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngramKNN_3k=3_content.
+png  used on input line 77.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 77--78
  [][] 
  []
 
-<../figs/../figs/fig_content/fig_ngramKNN_3k=5_content.png, id=26, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content/fig_ngramKNN_3k=5_content.png Graphic file (type png)
+<../figs/../figs/fig_content/fig_ngramKNN_3k=5_content.png, id=26, 462.528pt x 
+346.896pt>
+File: ../figs/../figs/fig_content/fig_ngramKNN_3k=5_content.png Graphic file (t
+ype png)
 <use ../figs/../figs/fig_content/fig_ngramKNN_3k=5_content.png>
-Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngramKNN_3k=5_content.png  used on input line 82.
+Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngramKNN_3k=5_content.
+png  used on input line 82.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 82--83
  [][] 
  []
 
-<../figs/../figs/fig_content/fig_ngramKNN_3k=7_content.png, id=27, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content/fig_ngramKNN_3k=7_content.png Graphic file (type png)
+<../figs/../figs/fig_content/fig_ngramKNN_3k=7_content.png, id=27, 462.528pt x 
+346.896pt>
+File: ../figs/../figs/fig_content/fig_ngramKNN_3k=7_content.png Graphic file (t
+ype png)
 <use ../figs/../figs/fig_content/fig_ngramKNN_3k=7_content.png>
-Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngramKNN_3k=7_content.png  used on input line 87.
+Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngramKNN_3k=7_content.
+png  used on input line 87.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 87--88
  [][] 
  []
 
-<../figs/../figs/fig_content/fig_ngramKNN_3k=10_content.png, id=28, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content/fig_ngramKNN_3k=10_content.png Graphic file (type png)
+<../figs/../figs/fig_content/fig_ngramKNN_3k=10_content.png, id=28, 462.528pt x
+ 346.896pt>
+File: ../figs/../figs/fig_content/fig_ngramKNN_3k=10_content.png Graphic file (
+type png)
 <use ../figs/../figs/fig_content/fig_ngramKNN_3k=10_content.png>
-Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngramKNN_3k=10_content.png  used on input line 92.
+Package pdftex.def Info: ../figs/../figs/fig_content/fig_ngramKNN_3k=10_content
+.png  used on input line 92.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 92--93
  [][] 
  []
 
-<../figs/../figs/fig_content/fig_TFIDF_LogisticRegression(solver='sag')__content.png, id=29, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content/fig_TFIDF_LogisticRegression(solver='sag')__conteg, id=30
+<../figs/../figs/fig_content/fig_TFIDF_LogisticRegression(solver='sag')__conten
+t.png, id=29, 462.528pt x 346.896pt>
+File: ../figs/../figs/fig_content/fig_TFIDF_LogisticRegression(solver='sag')__c
+ontent.png Graphic file (type png)
+<use ../figs/../figs/fig_content/fig_TFIDF_LogisticRegression(solver='sag')__co
+ntent.png>
+Package pdftex.def Info: ../figs/../figs/fig_content/fig_TFIDF_LogisticRegressi
+on(solver='sag')__content.png  used on input line 100.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 100--101
+ [][] 
+ []
+
+<../figs/../figs/fig_content/fig_TFIDF_SVC(kernel='linear')__content.png, id=30
 , 462.528pt x 346.896pt>
 File: ../figs/../figs/fig_content/fig_TFIDF_SVC(kernel='linear')__content.png G
 raphic file (type png)
@@ -784,161 +952,277 @@ ter=10000, n_jobs=-1, solver='saga')__content.png> <../figs/../figs/fig_content
 g_ngram_3_SVC(kernel='linear')__content.png> <../figs/../figs/fig_content/fig_n
 gram_2_DecisionTreeClassifier()__content.png> <../figs/../figs/fig_content/fig_
 ngram_3_DecisionTreeClassifier()__content.png> <../figs/../figs/fig_content/fig
-_ngramKNN_2k=1_content.png> <../figs/../figs/fig_con.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_ngram_3_LogisticRegression(max_iter=10000, n_jobs=-1, solver='saga')__content.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_ngram_2_SVC(kernel='linear')__content.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_ngram_3_SVC(kernel='linear')__content.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_ngram_2_DecisionTreeClassifier()__content.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_ngram_3_DecisionTreeClassifier()__content.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_ngramKNN_2k=1_content.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_ngramKNN_2k=3_content.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_ngramKNN_2k=5_content.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_ngramKNN_2k=7_content.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_ngramKNN_2k=10_content.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_ngramKNN_3k=1_content.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_ngramKNN_3k=3_content.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_ngramKNN_3k=5_content.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_ngramKNN_3k=7_content.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_ngramKNN_3k=10_content.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_TFIDF_LogisticRegression(solver='sag')__content.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_TFIDF_SVC(kernel='linear')__content.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_TFIDF_DecisionTreeClassifier()__content.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_KNN_1_content.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_KNN_3_content.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_KNN_5_content.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_KNN_7_content.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_KNN_10_content.png>] (/Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../tables/../tables/table_content_title.tex) [3
+_ngramKNN_2k=1_content.png> <../figs/../figs/fig_content/fig_ngramKNN_2k=3_cont
+ent.png> <../figs/../figs/fig_content/fig_ngramKNN_2k=5_content.png> <../figs/.
+./figs/fig_content/fig_ngramKNN_2k=7_content.png> <../figs/../figs/fig_content/
+fig_ngramKNN_2k=10_content.png> <../figs/../figs/fig_content/fig_ngramKNN_3k=1_
+content.png> <../figs/../figs/fig_content/fig_ngramKNN_3k=3_content.png> <../fi
+gs/../figs/fig_content/fig_ngramKNN_3k=5_content.png> <../figs/../figs/fig_cont
+ent/fig_ngramKNN_3k=7_content.png> <../figs/../figs/fig_content/fig_ngramKNN_3k
+=10_content.png> <../figs/../figs/fig_content/fig_TFIDF_LogisticRegression(solv
+er='sag')__content.png> <../figs/../figs/fig_content/fig_TFIDF_SVC(kernel='line
+ar')__content.png> <../figs/../figs/fig_content/fig_TFIDF_DecisionTreeClassifie
+r()__content.png> <../figs/../figs/fig_content/fig_KNN_1_content.png> <../figs/
+../figs/fig_content/fig_KNN_3_content.png> <../figs/../figs/fig_content/fig_KNN
+_5_content.png> <../figs/../figs/fig_content/fig_KNN_7_content.png> <../figs/..
+/figs/fig_content/fig_KNN_10_content.png>]
+(../tables/../tables/table_content_title.tex) [3
 
 
-] (/Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content_title.tex
-<../figs/../figs/fig_content_title/fig_ngram_2_LogisticRegression(solver='sag')__content_title.png, id=72, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content_title/fig_ngram_2_LogisticRegression(solver='sag')__content_title.png Graphic file (type png)
-<use ../figs/../figs/fig_content_title/fig_ngram_2_LogisticRegression(solver='sag')__content_title.png>
-Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_ngram_2_LogisticRegression(solver='sag')__content_title.png  used on input line 8.
+]
+(../figs/../figs/fig_content_title.tex
+<../figs/../figs/fig_content_title/fig_ngram_2_LogisticRegression(solver='sag')
+__content_title.png, id=72, 462.528pt x 346.896pt>
+File: ../figs/../figs/fig_content_title/fig_ngram_2_LogisticRegression(solver='
+sag')__content_title.png Graphic file (type png)
+<use ../figs/../figs/fig_content_title/fig_ngram_2_LogisticRegression(solver='s
+ag')__content_title.png>
+Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_ngram_2_Logistic
+Regression(solver='sag')__content_title.png  used on input line 8.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 8--9
  [][] 
  []
 
-<../figs/../figs/fig_content_title/fig_ngram_3_LogisticRegression(max_iter=10000, n_jobs=-1, solver='saga')__content_title.png, id=73, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content_title/fig_ngram_3_LogisticRegression(max_iter=10000, n_jobs=-1, solver='saga')__content_title.png Graphic file (type png)
-<use ../figs/../figs/fig_content_title/fig_ngram_3_LogisticRegression(max_iter=10000, n_jobs=-1, solver='saga')__content_title.png>
-Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_ngram_3_LogisticRegression(max_iter=10000, n_jobs=-1, solver='saga')__content_title.png  used on input line 13.
+<../figs/../figs/fig_content_title/fig_ngram_3_LogisticRegression(max_iter=1000
+0, n_jobs=-1, solver='saga')__content_title.png, id=73, 462.528pt x 346.896pt>
+File: ../figs/../figs/fig_content_title/fig_ngram_3_LogisticRegression(max_iter
+=10000, n_jobs=-1, solver='saga')__content_title.png Graphic file (type png)
+<use ../figs/../figs/fig_content_title/fig_ngram_3_LogisticRegression(max_iter=
+10000, n_jobs=-1, solver='saga')__content_title.png>
+Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_ngram_3_Logistic
+Regression(max_iter=10000, n_jobs=-1, solver='saga')__content_title.png  used o
+n input line 13.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 13--14
  [][] 
  []
 
-<../figs/../figs/fig_content_title/fig_ngram_2_SVC(kernel='linear')__content_title.png, id=74, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content_title/fig_ngram_2_SVC(kernel='linear')__content_title.png Graphic file (type png)
-<use ../figs/../figs/fig_content_title/fig_ngram_2_SVC(kernel='linear')__content_title.png>
-Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_ngram_2_SVC(kernel='linear')__content_title.png  used on input line 18.
+<../figs/../figs/fig_content_title/fig_ngram_2_SVC(kernel='linear')__content_ti
+tle.png, id=74, 462.528pt x 346.896pt>
+File: ../figs/../figs/fig_content_title/fig_ngram_2_SVC(kernel='linear')__conte
+nt_title.png Graphic file (type png)
+<use ../figs/../figs/fig_content_title/fig_ngram_2_SVC(kernel='linear')__conten
+t_title.png>
+Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_ngram_2_SVC(kern
+el='linear')__content_title.png  used on input line 18.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 18--19
  [][] 
  []
 
-<../figs/../figs/fig_content_title/fig_ngram_3_SVC(kernel='linear')__content_title.png, id=75, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content_title/fig_ngram_3_SVC(kernel='linear')__content_title.png Graphic file (type png)
-<use ../figs/../figs/fig_content_title/fig_ngram_3_SVC(kernel='linear')__content_title.png>
-Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_ngram_3_SVC(kernel='linear')__content_title.png  used on input line 23.
+<../figs/../figs/fig_content_title/fig_ngram_3_SVC(kernel='linear')__content_ti
+tle.png, id=75, 462.528pt x 346.896pt>
+File: ../figs/../figs/fig_content_title/fig_ngram_3_SVC(kernel='linear')__conte
+nt_title.png Graphic file (type png)
+<use ../figs/../figs/fig_content_title/fig_ngram_3_SVC(kernel='linear')__conten
+t_title.png>
+Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_ngram_3_SVC(kern
+el='linear')__content_title.png  used on input line 23.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 23--24
  [][] 
  []
 
-<../figs/../figs/fig_content_title/fig_ngram_2_DecisionTreeClassifier()__content_title.png, id=76, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content_title/fig_ngram_2_DecisionTreeClassifier()__content_title.png Graphic file (type png)
-<use ../figs/../figs/fig_content_title/fig_ngram_2_DecisionTreeClassifier()__content_title.png>
-Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_ngram_2_DecisionTreeClassifier()__content_title.png  used on input line 31.
+<../figs/../figs/fig_content_title/fig_ngram_2_DecisionTreeClassifier()__conten
+t_title.png, id=76, 462.528pt x 346.896pt>
+File: ../figs/../figs/fig_content_title/fig_ngram_2_DecisionTreeClassifier()__c
+ontent_title.png Graphic file (type png)
+<use ../figs/../figs/fig_content_title/fig_ngram_2_DecisionTreeClassifier()__co
+ntent_title.png>
+Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_ngram_2_Decision
+TreeClassifier()__content_title.png  used on input line 31.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 31--32
  [][] 
  []
 
-<../figs/../figs/fig_content_title/fig_ngram_3_DecisionTreeClassifier()__content_title.png, id=77, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content_title/fig_ngram_3_DecisionTreeClassifier()__content_title.png Graphic file (type png)
-<use ../figs/../figs/fig_content_title/fig_ngram_3_DecisionTreeClassifier()__content_title.png>
-Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_ngram_3_DecisionTreeClassifier()__content_title.png  used on input line 36.
+<../figs/../figs/fig_content_title/fig_ngram_3_DecisionTreeClassifier()__conten
+t_title.png, id=77, 462.528pt x 346.896pt>
+File: ../figs/../figs/fig_content_title/fig_ngram_3_DecisionTreeClassifier()__c
+ontent_title.png Graphic file (type png)
+<use ../figs/../figs/fig_content_title/fig_ngram_3_DecisionTreeClassifier()__co
+ntent_title.png>
+Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_ngram_3_Decision
+TreeClassifier()__content_title.png  used on input line 36.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 36--37
  [][] 
  []
 
-<../figs/../figs/fig_content_title/fig_ngramKNN_2k=1_content_title.png, id=78, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content_title/fig_ngramKNN_2k=1_content_title.png Graphic file (type png)
+<../figs/../figs/fig_content_title/fig_ngramKNN_2k=1_content_title.png, id=78, 
+462.528pt x 346.896pt>
+File: ../figs/../figs/fig_content_title/fig_ngramKNN_2k=1_content_title.png Gra
+phic file (type png)
 <use ../figs/../figs/fig_content_title/fig_ngramKNN_2k=1_content_title.png>
-Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_ngramKNN_2k=1_content_title.png  used on input line 41.
+Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_ngramKNN_2k=1_co
+ntent_title.png  used on input line 41.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 41--42
  [][] 
  []
 
-<../figs/../figs/fig_content_title/fig_ngramKNN_2k=3_content_title.png, id=79, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content_title/fig_ngramKNN_2k=3_content_title.png Graphic file (type png)
+<../figs/../figs/fig_content_title/fig_ngramKNN_2k=3_content_title.png, id=79, 
+462.528pt x 346.896pt>
+File: ../figs/../figs/fig_content_title/fig_ngramKNN_2k=3_content_title.png Gra
+phic file (type png)
 <use ../figs/../figs/fig_content_title/fig_ngramKNN_2k=3_content_title.png>
-Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_ngramKNN_2k=3_content_title.png  used on input line 46.
+Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_ngramKNN_2k=3_co
+ntent_title.png  used on input line 46.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 46--47
  [][] 
  []
 
-<../figs/../figs/fig_content_title/fig_ngramKNN_2k=5_content_title.png, id=80, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content_title/fig_ngramKNN_2k=5_content_title.png Graphic file (type png)
+<../figs/../figs/fig_content_title/fig_ngramKNN_2k=5_content_title.png, id=80, 
+462.528pt x 346.896pt>
+File: ../figs/../figs/fig_content_title/fig_ngramKNN_2k=5_content_title.png Gra
+phic file (type png)
 <use ../figs/../figs/fig_content_title/fig_ngramKNN_2k=5_content_title.png>
-Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_ngramKNN_2k=5_content_title.png  used on input line 54.
+Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_ngramKNN_2k=5_co
+ntent_title.png  used on input line 54.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 54--55
  [][] 
  []
 
-<../figs/../figs/fig_content_title/fig_ngramKNN_2k=7_content_title.png, id=81, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content_title/fig_ngramKNN_2k=7_content_title.png Graphic file (type png)
+<../figs/../figs/fig_content_title/fig_ngramKNN_2k=7_content_title.png, id=81, 
+462.528pt x 346.896pt>
+File: ../figs/../figs/fig_content_title/fig_ngramKNN_2k=7_content_title.png Gra
+phic file (type png)
 <use ../figs/../figs/fig_content_title/fig_ngramKNN_2k=7_content_title.png>
-Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_ngramKNN_2k=7_content_title.png  used on input line 59.
+Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_ngramKNN_2k=7_co
+ntent_title.png  used on input line 59.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 59--60
  [][] 
  []
 
-<../figs/../figs/fig_content_title/fig_ngramKNN_2k=10_content_title.png, id=82, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content_title/fig_ngramKNN_2k=10_content_title.png Graphic file (type png)
+<../figs/../figs/fig_content_title/fig_ngramKNN_2k=10_content_title.png, id=82,
+ 462.528pt x 346.896pt>
+File: ../figs/../figs/fig_content_title/fig_ngramKNN_2k=10_content_title.png Gr
+aphic file (type png)
 <use ../figs/../figs/fig_content_title/fig_ngramKNN_2k=10_content_title.png>
-Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_ngramKNN_2k=10_content_title.png  used on input line 64.
+Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_ngramKNN_2k=10_c
+ontent_title.png  used on input line 64.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 64--65
  [][] 
  []
 
-<../figs/../figs/fig_content_title/fig_ngramKNN_3k=1_content_title.png, id=83, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content_title/fig_ngramKNN_3k=1_content_title.png Graphic file (type png)
+<../figs/../figs/fig_content_title/fig_ngramKNN_3k=1_content_title.png, id=83, 
+462.528pt x 346.896pt>
+File: ../figs/../figs/fig_content_title/fig_ngramKNN_3k=1_content_title.png Gra
+phic file (type png)
 <use ../figs/../figs/fig_content_title/fig_ngramKNN_3k=1_content_title.png>
-Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_ngramKNN_3k=1_content_title.png  used on input line 69.
+Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_ngramKNN_3k=1_co
+ntent_title.png  used on input line 69.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 69--70
  [][] 
  []
 
-<../figs/../figs/fig_content_title/fig_ngramKNN_3k=3_content_title.png, id=84, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content_title/fig_ngramKNN_3k=3_content_title.png Graphic file (type png)
+<../figs/../figs/fig_content_title/fig_ngramKNN_3k=3_content_title.png, id=84, 
+462.528pt x 346.896pt>
+File: ../figs/../figs/fig_content_title/fig_ngramKNN_3k=3_content_title.png Gra
+phic file (type png)
 <use ../figs/../figs/fig_content_title/fig_ngramKNN_3k=3_content_title.png>
-Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_ngramKNN_3k=3_content_title.png  used on input line 77.
+Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_ngramKNN_3k=3_co
+ntent_title.png  used on input line 77.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 77--78
  [][] 
  []
 
-<../figs/../figs/fig_content_title/fig_ngramKNN_3k=5_content_title.png, id=85, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content_title/fig_ngramKNN_3k=5_content_title.png Graphic file (type png)
+<../figs/../figs/fig_content_title/fig_ngramKNN_3k=5_content_title.png, id=85, 
+462.528pt x 346.896pt>
+File: ../figs/../figs/fig_content_title/fig_ngramKNN_3k=5_content_title.png Gra
+phic file (type png)
 <use ../figs/../figs/fig_content_title/fig_ngramKNN_3k=5_content_title.png>
-Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_ngramKNN_3k=5_content_title.png  used on input line 82.
+Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_ngramKNN_3k=5_co
+ntent_title.png  used on input line 82.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 82--83
  [][] 
  []
 
-<../figs/../figs/fig_content_title/fig_ngramKNN_3k=7_content_title.png, id=86, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_content_title/fig_ngramKNN_3k=7_content_title.png Graphic file (type png)
+<../figs/../figs/fig_content_title/fig_ngramKNN_3k=7_content_title.png, id=86, 
+462.528pt x 346.896pt>
+File: ../figs/../figs/fig_content_title/fig_ngramKNN_3k=7_content_title.png Gra
+phic file (type png)
 <use ../figs/../figs/fig_content_title/fig_ngramKNN_3k=7_content_title.png>
-Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_ngramKNN_3k=7_content_title.png  used on input line 87.
+Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_ngramKNN_3k=7_co
+ntent_title.png  used on input line 87.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 87--88
  [][] 
  []
 
-<../figs/../figs/fig_content_title/fig_ngramKNN_3k=10_content_tit4154pt.
+<../figs/../figs/fig_content_title/fig_ngramKNN_3k=10_content_title.png, id=87,
+ 462.528pt x 346.896pt>
+File: ../figs/../figs/fig_content_title/fig_ngramKNN_3k=10_content_title.png Gr
+aphic file (type png)
+<use ../figs/../figs/fig_content_title/fig_ngramKNN_3k=10_content_title.png>
+Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_ngramKNN_3k=10_c
+ontent_title.png  used on input line 92.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 92--93
+ [][] 
+ []
+
+<../figs/../figs/fig_content_title/fig_TFIDF_LogisticRegression(solver='sag')__
+content_title.png, id=88, 462.528pt x 346.896pt>
+File: ../figs/../figs/fig_content_title/fig_TFIDF_LogisticRegression(solver='sa
+g')__content_title.png Graphic file (type png)
+<use ../figs/../figs/fig_content_title/fig_TFIDF_LogisticRegression(solver='sag
+')__content_title.png>
+Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_TFIDF_LogisticRe
+gression(solver='sag')__content_title.png  used on input line 100.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 100--101
+ [][] 
+ []
+
+<../figs/../figs/fig_content_title/fig_TFIDF_SVC(kernel='linear')__content_titl
+e.png, id=89, 462.528pt x 346.896pt>
+File: ../figs/../figs/fig_content_title/fig_TFIDF_SVC(kernel='linear')__content
+_title.png Graphic file (type png)
+<use ../figs/../figs/fig_content_title/fig_TFIDF_SVC(kernel='linear')__content_
+title.png>
+Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_TFIDF_SVC(kernel
+='linear')__content_title.png  used on input line 105.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 105--106
+ [][] 
+ []
+
+<../figs/../figs/fig_content_title/fig_TFIDF_DecisionTreeClassifier()__content_
+title.png, id=90, 462.528pt x 346.896pt>
+File: ../figs/../figs/fig_content_title/fig_TFIDF_DecisionTreeClassifier()__con
+tent_title.png Graphic file (type png)
+<use ../figs/../figs/fig_content_title/fig_TFIDF_DecisionTreeClassifier()__cont
+ent_title.png>
+Package pdftex.def Info: ../figs/../figs/fig_content_title/fig_TFIDF_DecisionTr
+eeClassifier()__content_title.png  used on input line 110.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 110--111
  [][] 
@@ -1118,152 +1402,219 @@ File: ../figs/../figs/fig_title/fig_ngram_3_DecisionTreeClassifier()__title.png
 
 Package pdftex.def Info: ../figs/../figs/fig_title/fig_ngram_3_DecisionTreeClas
 sifier()__title.png  used on input line 36.
-(pdftex.def)             Requested size: 161.88722igs/../figs/fig_content_title/fig_KNN_3_content_title.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content_title/fig_KNN_5_content_title.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content_title/fig_KNN_7_content_title.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content_title/fig_KNN_10_content_title.png>] (/Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../tables/../tables/table_title.tex) [5
-
-
-] (/Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title.tex
-<../figs/../figs/fig_title/fig_ngram_2_LogisticRegression(solver='sag')__title.png, id=130, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_title/fig_ngram_2_LogisticRegression(solver='sag')__title.png Graphic file (type png)
-<use ../figs/../figs/fig_title/fig_ngram_2_LogisticRegression(solver='sag')__title.png>
-Package pdftex.def Info: ../figs/../figs/fig_title/fig_ngram_2_LogisticRegression(solver='sag')__title.png  used on input line 8.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-
-Overfull \hbox (43.38387pt too wide) in paragraph at lines 8--9
- [][] 
- []
-
-<../figs/../figs/fig_title/fig_ngram_3_LogisticRegression(max_iter=10000, n_jobs=-1, solver='saga')__title.png, id=131, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_title/fig_ngram_3_LogisticRegression(max_iter=10000, n_jobs=-1, solver='saga')__title.png Graphic file (type png)
-<use ../figs/../figs/fig_title/fig_ngram_3_LogisticRegression(max_iter=10000, n_jobs=-1, solver='saga')__title.png>
-Package pdftex.def Info: ../figs/../figs/fig_title/fig_ngram_3_LogisticRegression(max_iter=10000, n_jobs=-1, solver='saga')__title.png  used on input line 13.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-
-Overfull \hbox (43.38387pt too wide) in paragraph at lines 13--14
- [][] 
- []
-
-<../figs/../figs/fig_title/fig_ngram_2_SVC(kernel='linear')__title.png, id=132, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_title/fig_ngram_2_SVC(kernel='linear')__title.png Graphic file (type png)
-<use ../figs/../figs/fig_title/fig_ngram_2_SVC(kernel='linear')__title.png>
-Package pdftex.def Info: ../figs/../figs/fig_title/fig_ngram_2_SVC(kernel='linear')__title.png  used on input line 18.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-
-Overfull \hbox (43.38387pt too wide) in paragraph at lines 18--19
- [][] 
- []
-
-<../figs/../figs/fig_title/fig_ngram_3_SVC(kernel='linear')__title.png, id=133, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_title/fig_ngram_3_SVC(kernel='linear')__title.png Graphic file (type png)
-<use ../figs/../figs/fig_title/fig_ngram_3_SVC(kernel='linear')__title.png>
-Package pdftex.def Info: ../figs/../figs/fig_title/fig_ngram_3_SVC(kernel='linear')__title.png  used on input line 23.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-
-Overfull \hbox (43.38387pt too wide) in paragraph at lines 23--24
- [][] 
- []
-
-<../figs/../figs/fig_title/fig_ngram_2_DecisionTreeClassifier()__title.png, id=134, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_title/fig_ngram_2_DecisionTreeClassifier()__title.png Graphic file (type png)
-<use ../figs/../figs/fig_title/fig_ngram_2_DecisionTreeClassifier()__title.png>
-Package pdftex.def Info: ../figs/../figs/fig_title/fig_ngram_2_DecisionTreeClassifier()__title.png  used on input line 31.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-
-Overfull \hbox (43.38387pt too wide) in paragraph at lines 31--32
- [][] 
- []
-
-<../figs/../figs/fig_title/fig_ngram_3_DecisionTreeClassifier()__title.png, id=135, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_title/fig_ngram_3_DecisionTreeClassifier()__title.png Graphic file (type png)
-<use ../figs/../figs/fig_title/fig_ngram_3_DecisionTreeClassifier()__title.png>
-Package pdftex.def Info: ../figs/../figs/fig_title/fig_ngram_3_DecisionTreeClassifier()__title.png  used on input line 36.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 36--37
  [][] 
  []
 
-<../figs/../figs/fig_title/fig_ngramKNN_2k=1_title.png, id=136, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_title/fig_ngramKNN_2k=1_title.png Graphic file (type png)
+<../figs/../figs/fig_title/fig_ngramKNN_2k=1_title.png, id=136, 462.528pt x 346
+.896pt>
+File: ../figs/../figs/fig_title/fig_ngramKNN_2k=1_title.png Graphic file (type 
+png)
 <use ../figs/../figs/fig_title/fig_ngramKNN_2k=1_title.png>
-Package pdftex.def Info: ../figs/../figs/fig_title/fig_ngramKNN_2k=1_title.png  used on input line 41.
+Package pdftex.def Info: ../figs/../figs/fig_title/fig_ngramKNN_2k=1_title.png 
+ used on input line 41.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 41--42
  [][] 
  []
 
-<../figs/../figs/fig_title/fig_ngramKNN_2k=3_title.png, id=137, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_title/fig_ngramKNN_2k=3_title.png Graphic file (type png)
+<../figs/../figs/fig_title/fig_ngramKNN_2k=3_title.png, id=137, 462.528pt x 346
+.896pt>
+File: ../figs/../figs/fig_title/fig_ngramKNN_2k=3_title.png Graphic file (type 
+png)
 <use ../figs/../figs/fig_title/fig_ngramKNN_2k=3_title.png>
-Package pdftex.def Info: ../figs/../figs/fig_title/fig_ngramKNN_2k=3_title.png  used on input line 46.
+Package pdftex.def Info: ../figs/../figs/fig_title/fig_ngramKNN_2k=3_title.png 
+ used on input line 46.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 46--47
  [][] 
  []
 
-<../figs/../figs/fig_title/fig_ngramKNN_2k=5_title.png, id=138, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_title/fig_ngramKNN_2k=5_title.png Graphic file (type png)
+<../figs/../figs/fig_title/fig_ngramKNN_2k=5_title.png, id=138, 462.528pt x 346
+.896pt>
+File: ../figs/../figs/fig_title/fig_ngramKNN_2k=5_title.png Graphic file (type 
+png)
 <use ../figs/../figs/fig_title/fig_ngramKNN_2k=5_title.png>
-Package pdftex.def Info: ../figs/../figs/fig_title/fig_ngramKNN_2k=5_title.png  used on input line 54.
+Package pdftex.def Info: ../figs/../figs/fig_title/fig_ngramKNN_2k=5_title.png 
+ used on input line 54.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 54--55
  [][] 
  []
 
-<../figs/../figs/fig_title/fig_ngramKNN_2k=7_title.png, id=139, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_title/fig_ngramKNN_2k=7_title.png Graphic file (type png)
+<../figs/../figs/fig_title/fig_ngramKNN_2k=7_title.png, id=139, 462.528pt x 346
+.896pt>
+File: ../figs/../figs/fig_title/fig_ngramKNN_2k=7_title.png Graphic file (type 
+png)
 <use ../figs/../figs/fig_title/fig_ngramKNN_2k=7_title.png>
-Package pdftex.def Info: ../figs/../figs/fig_title/fig_ngramKNN_2k=7_title.png  used on input line 59.
+Package pdftex.def Info: ../figs/../figs/fig_title/fig_ngramKNN_2k=7_title.png 
+ used on input line 59.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 59--60
  [][] 
  []
 
-<../figs/../figs/fig_title/fig_ngramKNN_2k=10_title.png, id=140, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_title/fig_ngramKNN_2k=10_title.png Graphic file (type png)
+<../figs/../figs/fig_title/fig_ngramKNN_2k=10_title.png, id=140, 462.528pt x 34
+6.896pt>
+File: ../figs/../figs/fig_title/fig_ngramKNN_2k=10_title.png Graphic file (type
+ png)
 <use ../figs/../figs/fig_title/fig_ngramKNN_2k=10_title.png>
-Package pdftex.def Info: ../figs/../figs/fig_title/fig_ngramKNN_2k=10_title.png  used on input line 64.
+Package pdftex.def Info: ../figs/../figs/fig_title/fig_ngramKNN_2k=10_title.png
+  used on input line 64.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 64--65
  [][] 
  []
 
-<../figs/../figs/fig_title/fig_ngramKNN_3k=1_title.png, id=141, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_title/fig_ngramKNN_3k=1_title.png Graphic file (type png)
+<../figs/../figs/fig_title/fig_ngramKNN_3k=1_title.png, id=141, 462.528pt x 346
+.896pt>
+File: ../figs/../figs/fig_title/fig_ngramKNN_3k=1_title.png Graphic file (type 
+png)
 <use ../figs/../figs/fig_title/fig_ngramKNN_3k=1_title.png>
-Package pdftex.def Info: ../figs/../figs/fig_title/fig_ngramKNN_3k=1_title.png  used on input line 69.
+Package pdftex.def Info: ../figs/../figs/fig_title/fig_ngramKNN_3k=1_title.png 
+ used on input line 69.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 69--70
  [][] 
  []
 
-<../figs/../figs/fig_title/fig_ngramKNN_3k=3_title.png, id=142, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_title/fig_ngramKNN_3k=3_title.png Graphic file (type png)
+<../figs/../figs/fig_title/fig_ngramKNN_3k=3_title.png, id=142, 462.528pt x 346
+.896pt>
+File: ../figs/../figs/fig_title/fig_ngramKNN_3k=3_title.png Graphic file (type 
+png)
 <use ../figs/../figs/fig_title/fig_ngramKNN_3k=3_title.png>
-Package pdftex.def Info: ../figs/../figs/fig_title/fig_ngramKNN_3k=3_title.png  used on input line 77.
+Package pdftex.def Info: ../figs/../figs/fig_title/fig_ngramKNN_3k=3_title.png 
+ used on input line 77.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 77--78
  [][] 
  []
 
-<../figs/../figs/fig_title/fig_ngramKNN_3k=5_title.png, id=143, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_title/fig_ngramKNN_3k=5_title.png Graphic file (type png)
+<../figs/../figs/fig_title/fig_ngramKNN_3k=5_title.png, id=143, 462.528pt x 346
+.896pt>
+File: ../figs/../figs/fig_title/fig_ngramKNN_3k=5_title.png Graphic file (type 
+png)
 <use ../figs/../figs/fig_title/fig_ngramKNN_3k=5_title.png>
-Package pdftex.def Info: ../figs/../figs/fig_title/fig_ngramKNN_3k=5_title.png  used on input line 82.
+Package pdftex.def Info: ../figs/../figs/fig_title/fig_ngramKNN_3k=5_title.png 
+ used on input line 82.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 82--83
  [][] 
  []
 
-<../figs/../figs/fig_title/fig_ngramKNN_3k=7_title.png, id=144, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_title/fig_ngramKNN_3k=7_title.png Graphiage pdftex.def Info: ../figs/../figs/fig_title/fig_KNN_7_title.png  used on
+<../figs/../figs/fig_title/fig_ngramKNN_3k=7_title.png, id=144, 462.528pt x 346
+.896pt>
+File: ../figs/../figs/fig_title/fig_ngramKNN_3k=7_title.png Graphic file (type 
+png)
+<use ../figs/../figs/fig_title/fig_ngramKNN_3k=7_title.png>
+Package pdftex.def Info: ../figs/../figs/fig_title/fig_ngramKNN_3k=7_title.png 
+ used on input line 87.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 87--88
+ [][] 
+ []
+
+<../figs/../figs/fig_title/fig_ngramKNN_3k=10_title.png, id=145, 462.528pt x 34
+6.896pt>
+File: ../figs/../figs/fig_title/fig_ngramKNN_3k=10_title.png Graphic file (type
+ png)
+<use ../figs/../figs/fig_title/fig_ngramKNN_3k=10_title.png>
+Package pdftex.def Info: ../figs/../figs/fig_title/fig_ngramKNN_3k=10_title.png
+  used on input line 92.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 92--93
+ [][] 
+ []
+
+<../figs/../figs/fig_title/fig_TFIDF_LogisticRegression(solver='sag')__title.pn
+g, id=146, 462.528pt x 346.896pt>
+File: ../figs/../figs/fig_title/fig_TFIDF_LogisticRegression(solver='sag')__tit
+le.png Graphic file (type png)
+<use ../figs/../figs/fig_title/fig_TFIDF_LogisticRegression(solver='sag')__titl
+e.png>
+Package pdftex.def Info: ../figs/../figs/fig_title/fig_TFIDF_LogisticRegression
+(solver='sag')__title.png  used on input line 100.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 100--101
+ [][] 
+ []
+
+<../figs/../figs/fig_title/fig_TFIDF_SVC(kernel='linear')__title.png, id=147, 4
+62.528pt x 346.896pt>
+File: ../figs/../figs/fig_title/fig_TFIDF_SVC(kernel='linear')__title.png Graph
+ic file (type png)
+<use ../figs/../figs/fig_title/fig_TFIDF_SVC(kernel='linear')__title.png>
+Package pdftex.def Info: ../figs/../figs/fig_title/fig_TFIDF_SVC(kernel='linear
+')__title.png  used on input line 105.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 105--106
+ [][] 
+ []
+
+<../figs/../figs/fig_title/fig_TFIDF_DecisionTreeClassifier()__title.png, id=14
+8, 462.528pt x 346.896pt>
+File: ../figs/../figs/fig_title/fig_TFIDF_DecisionTreeClassifier()__title.png G
+raphic file (type png)
+<use ../figs/../figs/fig_title/fig_TFIDF_DecisionTreeClassifier()__title.png>
+Package pdftex.def Info: ../figs/../figs/fig_title/fig_TFIDF_DecisionTreeClassi
+fier()__title.png  used on input line 110.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 110--111
+ [][] 
+ []
+
+<../figs/../figs/fig_title/fig_KNN_1_title.png, id=149, 462.528pt x 346.896pt>
+File: ../figs/../figs/fig_title/fig_KNN_1_title.png Graphic file (type png)
+<use ../figs/../figs/fig_title/fig_KNN_1_title.png>
+Package pdftex.def Info: ../figs/../figs/fig_title/fig_KNN_1_title.png  used on
+ input line 115.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 115--116
+ [][] 
+ []
+
+<../figs/../figs/fig_title/fig_KNN_3_title.png, id=150, 462.528pt x 346.896pt>
+File: ../figs/../figs/fig_title/fig_KNN_3_title.png Graphic file (type png)
+<use ../figs/../figs/fig_title/fig_KNN_3_title.png>
+Package pdftex.def Info: ../figs/../figs/fig_title/fig_KNN_3_title.png  used on
+ input line 123.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 123--124
+ [][] 
+ []
+
+<../figs/../figs/fig_title/fig_KNN_5_title.png, id=151, 462.528pt x 346.896pt>
+File: ../figs/../figs/fig_title/fig_KNN_5_title.png Graphic file (type png)
+<use ../figs/../figs/fig_title/fig_KNN_5_title.png>
+Package pdftex.def Info: ../figs/../figs/fig_title/fig_KNN_5_title.png  used on
+ input line 128.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 128--129
+ [][] 
+ []
+
+<../figs/../figs/fig_title/fig_KNN_7_title.png, id=152, 462.528pt x 346.896pt>
+File: ../figs/../figs/fig_title/fig_KNN_7_title.png Graphic file (type png)
+<use ../figs/../figs/fig_title/fig_KNN_7_title.png>
+Package pdftex.def Info: ../figs/../figs/fig_title/fig_KNN_7_title.png  used on
  input line 133.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
@@ -1345,101 +1696,218 @@ ic file (type png)
 <use ../figs/../figs/fig_liar_content/_ngram_2_SVC(kernel='linear')_.png>
 Package pdftex.def Info: ../figs/../figs/fig_liar_content/_ngram_2_SVC(kernel='
 linear')_.png  used on input line 18.
-(pdftex.d_title/fig_KNN_7_title.png  used on input line 133.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-
-Overfull \hbox (43.38387pt too wide) in paragraph at lines 133--134
- [][] 
- []
-
-<../figs/../figs/fig_title/fig_KNN_10_title.png, id=153, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_title/fig_KNN_10_title.png Graphic file (type png)
-<use ../figs/../figs/fig_title/fig_KNN_10_title.png>
-Package pdftex.def Info: ../figs/../figs/fig_title/fig_KNN_10_title.png  used on input line 138.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-
-Overfull \hbox (43.38387pt too wide) in paragraph at lines 138--139
- [][] 
- []
-
-
-LaTeX Warning: Float too large for page by 54.44475pt on input line 142.
-
-) [6 </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_ngram_2_LogisticRegression(solver='sag')__title.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_ngram_3_LogisticRegression(max_iter=10000, n_jobs=-1, solver='saga')__title.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_ngram_2_SVC(kernel='linear')__title.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_ngram_3_SVC(kernel='linear')__title.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_ngram_2_DecisionTreeClassifier()__title.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_ngram_3_DecisionTreeClassifier()__title.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_ngramKNN_2k=1_title.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_ngramKNN_2k=3_title.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_ngramKNN_2k=5_title.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_ngramKNN_2k=7_title.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_ngramKNN_2k=10_title.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_ngramKNN_3k=1_title.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_ngramKNN_3k=3_title.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_ngramKNN_3k=5_title.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_ngramKNN_3k=7_title.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_ngramKNN_3k=10_title.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_TFIDF_LogisticRegression(solver='sag')__title.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_TFIDF_SVC(kernel='linear')__title.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_TFIDF_DecisionTreeClassifier()__title.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_KNN_1_title.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_KNN_3_title.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_KNN_5_title.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_KNN_7_title.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_KNN_10_title.png>] (/Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../tables/../tables/table_liar_content.tex) [7
-
-
-] (/Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content.tex
-<../figs/../figs/fig_liar_content/_ngram_2_LogisticRegression(solver='sag')_.png, id=189, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_liar_content/_ngram_2_LogisticRegression(solver='sag')_.png Graphic file (type png)
-<use ../figs/../figs/fig_liar_content/_ngram_2_LogisticRegression(solver='sag')_.png>
-Package pdftex.def Info: ../figs/../figs/fig_liar_content/_ngram_2_LogisticRegression(solver='sag')_.png  used on input line 8.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-
-Overfull \hbox (43.38387pt too wide) in paragraph at lines 8--9
- [][] 
- []
-
-<../figs/../figs/fig_liar_content/_ngram_3_LogisticRegression(max_iter=10000, n_jobs=-1, solver='saga')_.png, id=190, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_liar_content/_ngram_3_LogisticRegression(max_iter=10000, n_jobs=-1, solver='saga')_.png Graphic file (type png)
-<use ../figs/../figs/fig_liar_content/_ngram_3_LogisticRegression(max_iter=10000, n_jobs=-1, solver='saga')_.png>
-Package pdftex.def Info: ../figs/../figs/fig_liar_content/_ngram_3_LogisticRegression(max_iter=10000, n_jobs=-1, solver='saga')_.png  used on input line 13.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-
-Overfull \hbox (43.38387pt too wide) in paragraph at lines 13--14
- [][] 
- []
-
-<../figs/../figs/fig_liar_content/_ngram_2_SVC(kernel='linear')_.png, id=191, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_liar_content/_ngram_2_SVC(kernel='linear')_.png Graphic file (type png)
-<use ../figs/../figs/fig_liar_content/_ngram_2_SVC(kernel='linear')_.png>
-Package pdftex.def Info: ../figs/../figs/fig_liar_content/_ngram_2_SVC(kernel='linear')_.png  used on input line 18.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 18--19
  [][] 
  []
 
-<../figs/../figs/fig_liar_content/_ngram_3_SVC(kernel='linear')_.png, id=192, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_liar_content/_ngram_3_SVC(kernel='linear')_.png Graphic file (type png)
+<../figs/../figs/fig_liar_content/_ngram_3_SVC(kernel='linear')_.png, id=192, 4
+62.528pt x 346.896pt>
+File: ../figs/../figs/fig_liar_content/_ngram_3_SVC(kernel='linear')_.png Graph
+ic file (type png)
 <use ../figs/../figs/fig_liar_content/_ngram_3_SVC(kernel='linear')_.png>
-Package pdftex.def Info: ../figs/../figs/fig_liar_content/_ngram_3_SVC(kernel='linear')_.png  used on input line 23.
+Package pdftex.def Info: ../figs/../figs/fig_liar_content/_ngram_3_SVC(kernel='
+linear')_.png  used on input line 23.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 23--24
  [][] 
  []
 
-<../figs/../figs/fig_liar_content/_ngram_2_DecisionTreeClassifier()_.png, id=193, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_liar_content/_ngram_2_DecisionTreeClassifier()_.png Graphic file (type png)
+<../figs/../figs/fig_liar_content/_ngram_2_DecisionTreeClassifier()_.png, id=19
+3, 462.528pt x 346.896pt>
+File: ../figs/../figs/fig_liar_content/_ngram_2_DecisionTreeClassifier()_.png G
+raphic file (type png)
 <use ../figs/../figs/fig_liar_content/_ngram_2_DecisionTreeClassifier()_.png>
-Package pdftex.def Info: ../figs/../figs/fig_liar_content/_ngram_2_DecisionTreeClassifier()_.png  used on input line 31.
+Package pdftex.def Info: ../figs/../figs/fig_liar_content/_ngram_2_DecisionTree
+Classifier()_.png  used on input line 31.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 31--32
  [][] 
  []
 
-<../figs/../figs/fig_liar_content/_ngram_3_DecisionTreeClassifier()_.png, id=194, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_liar_content/_ngram_3_DecisionTreeClassifier()_.png Graphic file (type png)
+<../figs/../figs/fig_liar_content/_ngram_3_DecisionTreeClassifier()_.png, id=19
+4, 462.528pt x 346.896pt>
+File: ../figs/../figs/fig_liar_content/_ngram_3_DecisionTreeClassifier()_.png G
+raphic file (type png)
 <use ../figs/../figs/fig_liar_content/_ngram_3_DecisionTreeClassifier()_.png>
-Package pdftex.def Info: ../figs/../figs/fig_liar_content/_ngram_3_DecisionTreeClassifier()_.png  used on input line 36.
+Package pdftex.def Info: ../figs/../figs/fig_liar_content/_ngram_3_DecisionTree
+Classifier()_.png  used on input line 36.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 36--37
  [][] 
  []
 
-<../figs/../figs/fig_liar_content/_ngramKNN_2k=1.png, id=195, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_liar_content/_ngramKNN_2k=1.png Graphic file (type png)
+<../figs/../figs/fig_liar_content/_ngramKNN_2k=1.png, id=195, 462.528pt x 346.8
+96pt>
+File: ../figs/../figs/fig_liar_content/_ngramKNN_2k=1.png Graphic file (type pn
+g)
 <use ../figs/../figs/fig_liar_content/_ngramKNN_2k=1.png>
-Package pdftex.def Info: ../figs/../figs/fig_liar_content/_ngramKNN_2k=1.png  used on input line 41.
+Package pdftex.def Info: ../figs/../figs/fig_liar_content/_ngramKNN_2k=1.png  u
+sed on input line 41.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 41--42
  [][] 
  []
 
-<../figs/../figs/fig_l0--111
+<../figs/../figs/fig_liar_content/_ngramKNN_2k=3.png, id=196, 462.528pt x 346.8
+96pt>
+File: ../figs/../figs/fig_liar_content/_ngramKNN_2k=3.png Graphic file (type pn
+g)
+<use ../figs/../figs/fig_liar_content/_ngramKNN_2k=3.png>
+Package pdftex.def Info: ../figs/../figs/fig_liar_content/_ngramKNN_2k=3.png  u
+sed on input line 46.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 46--47
+ [][] 
+ []
+
+<../figs/../figs/fig_liar_content/_ngramKNN_2k=5.png, id=197, 462.528pt x 346.8
+96pt>
+File: ../figs/../figs/fig_liar_content/_ngramKNN_2k=5.png Graphic file (type pn
+g)
+<use ../figs/../figs/fig_liar_content/_ngramKNN_2k=5.png>
+Package pdftex.def Info: ../figs/../figs/fig_liar_content/_ngramKNN_2k=5.png  u
+sed on input line 54.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 54--55
+ [][] 
+ []
+
+<../figs/../figs/fig_liar_content/_ngramKNN_2k=7.png, id=198, 462.528pt x 346.8
+96pt>
+File: ../figs/../figs/fig_liar_content/_ngramKNN_2k=7.png Graphic file (type pn
+g)
+<use ../figs/../figs/fig_liar_content/_ngramKNN_2k=7.png>
+Package pdftex.def Info: ../figs/../figs/fig_liar_content/_ngramKNN_2k=7.png  u
+sed on input line 59.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 59--60
+ [][] 
+ []
+
+<../figs/../figs/fig_liar_content/_ngramKNN_2k=10.png, id=199, 462.528pt x 346.
+896pt>
+File: ../figs/../figs/fig_liar_content/_ngramKNN_2k=10.png Graphic file (type p
+ng)
+<use ../figs/../figs/fig_liar_content/_ngramKNN_2k=10.png>
+Package pdftex.def Info: ../figs/../figs/fig_liar_content/_ngramKNN_2k=10.png  
+used on input line 64.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 64--65
+ [][] 
+ []
+
+<../figs/../figs/fig_liar_content/_ngramKNN_3k=1.png, id=200, 462.528pt x 346.8
+96pt>
+File: ../figs/../figs/fig_liar_content/_ngramKNN_3k=1.png Graphic file (type pn
+g)
+<use ../figs/../figs/fig_liar_content/_ngramKNN_3k=1.png>
+Package pdftex.def Info: ../figs/../figs/fig_liar_content/_ngramKNN_3k=1.png  u
+sed on input line 69.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 69--70
+ [][] 
+ []
+
+<../figs/../figs/fig_liar_content/_ngramKNN_3k=3.png, id=201, 462.528pt x 346.8
+96pt>
+File: ../figs/../figs/fig_liar_content/_ngramKNN_3k=3.png Graphic file (type pn
+g)
+<use ../figs/../figs/fig_liar_content/_ngramKNN_3k=3.png>
+Package pdftex.def Info: ../figs/../figs/fig_liar_content/_ngramKNN_3k=3.png  u
+sed on input line 77.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 77--78
+ [][] 
+ []
+
+<../figs/../figs/fig_liar_content/_ngramKNN_3k=5.png, id=202, 462.528pt x 346.8
+96pt>
+File: ../figs/../figs/fig_liar_content/_ngramKNN_3k=5.png Graphic file (type pn
+g)
+<use ../figs/../figs/fig_liar_content/_ngramKNN_3k=5.png>
+Package pdftex.def Info: ../figs/../figs/fig_liar_content/_ngramKNN_3k=5.png  u
+sed on input line 82.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 82--83
+ [][] 
+ []
+
+<../figs/../figs/fig_liar_content/_ngramKNN_3k=7.png, id=203, 462.528pt x 346.8
+96pt>
+File: ../figs/../figs/fig_liar_content/_ngramKNN_3k=7.png Graphic file (type pn
+g)
+<use ../figs/../figs/fig_liar_content/_ngramKNN_3k=7.png>
+Package pdftex.def Info: ../figs/../figs/fig_liar_content/_ngramKNN_3k=7.png  u
+sed on input line 87.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 87--88
+ [][] 
+ []
+
+<../figs/../figs/fig_liar_content/_ngramKNN_3k=10.png, id=204, 462.528pt x 346.
+896pt>
+File: ../figs/../figs/fig_liar_content/_ngramKNN_3k=10.png Graphic file (type p
+ng)
+<use ../figs/../figs/fig_liar_content/_ngramKNN_3k=10.png>
+Package pdftex.def Info: ../figs/../figs/fig_liar_content/_ngramKNN_3k=10.png  
+used on input line 92.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 92--93
+ [][] 
+ []
+
+<../figs/../figs/fig_liar_content/_TFIDF_LogisticRegression(solver='sag')_.png,
+ id=205, 462.528pt x 346.896pt>
+File: ../figs/../figs/fig_liar_content/_TFIDF_LogisticRegression(solver='sag')_
+.png Graphic file (type png)
+<use ../figs/../figs/fig_liar_content/_TFIDF_LogisticRegression(solver='sag')_.
+png>
+Package pdftex.def Info: ../figs/../figs/fig_liar_content/_TFIDF_LogisticRegres
+sion(solver='sag')_.png  used on input line 100.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 100--101
+ [][] 
+ []
+
+<../figs/../figs/fig_liar_content/_TFIDF_SVC(kernel='linear')_.png, id=206, 462
+.528pt x 346.896pt>
+File: ../figs/../figs/fig_liar_content/_TFIDF_SVC(kernel='linear')_.png Graphic
+ file (type png)
+<use ../figs/../figs/fig_liar_content/_TFIDF_SVC(kernel='linear')_.png>
+Package pdftex.def Info: ../figs/../figs/fig_liar_content/_TFIDF_SVC(kernel='li
+near')_.png  used on input line 105.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 105--106
+ [][] 
+ []
+
+<../figs/../figs/fig_liar_content/_TFIDF_DecisionTreeClassifier()_.png, id=207,
+ 462.528pt x 346.896pt>
+File: ../figs/../figs/fig_liar_content/_TFIDF_DecisionTreeClassifier()_.png Gra
+phic file (type png)
+<use ../figs/../figs/fig_liar_content/_TFIDF_DecisionTreeClassifier()_.png>
+Package pdftex.def Info: ../figs/../figs/fig_liar_content/_TFIDF_DecisionTreeCl
+assifier()_.png  used on input line 110.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 110--111
  [][] 
  []
 
@@ -1625,92 +2093,220 @@ Overfull \hbox (43.38387pt too wide) in paragraph at lines 41--42
 
 <../figs/../figs/fig_liar_content_title/_ngramKNN_2k=3.png, id=254, 462.528pt x
  346.896pt>
-File: ../figs/../figs/fig_liar_content_title/_ngramKNN_2k=3.pnUsers/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_ngram_2_LogisticRegression(solver='sag')_.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_ngram_3_LogisticRegression(max_iter=10000, n_jobs=-1, solver='saga')_.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_ngram_2_SVC(kernel='linear')_.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_ngram_3_SVC(kernel='linear')_.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_ngram_2_DecisionTreeClassifier()_.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_ngram_3_DecisionTreeClassifier()_.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_ngramKNN_2k=1.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_ngramKNN_2k=3.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_ngramKNN_2k=5.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_ngramKNN_2k=7.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_ngramKNN_2k=10.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_ngramKNN_3k=1.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_ngramKNN_3k=3.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_ngramKNN_3k=5.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_ngramKNN_3k=7.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_ngramKNN_3k=10.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_TFIDF_LogisticRegression(solver='sag')_.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_TFIDF_SVC(kernel='linear')_.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_TFIDF_DecisionTreeClassifier()_.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_KNN_1.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_KNN_3.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_KNN_5.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_KNN_7.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_KNN_10.png>] (/Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../tables/../tables/table_liar_content_title.tex) [9
-
-
-] (/Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content_title.tex
-<../figs/../figs/fig_liar_content_title/_ngram_2_LogisticRegression(solver='sag')_.png, id=247, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_liar_content_title/_ngram_2_LogisticRegression(solver='sag')_.png Graphic file (type png)
-<use ../figs/../figs/fig_liar_content_title/_ngram_2_LogisticRegression(solver='sag')_.png>
-Package pdftex.def Info: ../figs/../figs/fig_liar_content_title/_ngram_2_LogisticRegression(solver='sag')_.png  used on input line 8.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-
-Overfull \hbox (43.38387pt too wide) in paragraph at lines 8--9
- [][] 
- []
-
-<../figs/../figs/fig_liar_content_title/_ngram_3_LogisticRegression(max_iter=10000, n_jobs=-1, solver='saga')_.png, id=248, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_liar_content_title/_ngram_3_LogisticRegression(max_iter=10000, n_jobs=-1, solver='saga')_.png Graphic file (type png)
-<use ../figs/../figs/fig_liar_content_title/_ngram_3_LogisticRegression(max_iter=10000, n_jobs=-1, solver='saga')_.png>
-Package pdftex.def Info: ../figs/../figs/fig_liar_content_title/_ngram_3_LogisticRegression(max_iter=10000, n_jobs=-1, solver='saga')_.png  used on input line 13.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-
-Overfull \hbox (43.38387pt too wide) in paragraph at lines 13--14
- [][] 
- []
-
-<../figs/../figs/fig_liar_content_title/_ngram_2_SVC(kernel='linear')_.png, id=249, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_liar_content_title/_ngram_2_SVC(kernel='linear')_.png Graphic file (type png)
-<use ../figs/../figs/fig_liar_content_title/_ngram_2_SVC(kernel='linear')_.png>
-Package pdftex.def Info: ../figs/../figs/fig_liar_content_title/_ngram_2_SVC(kernel='linear')_.png  used on input line 18.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-
-Overfull \hbox (43.38387pt too wide) in paragraph at lines 18--19
- [][] 
- []
-
-<../figs/../figs/fig_liar_content_title/_ngram_3_SVC(kernel='linear')_.png, id=250, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_liar_content_title/_ngram_3_SVC(kernel='linear')_.png Graphic file (type png)
-<use ../figs/../figs/fig_liar_content_title/_ngram_3_SVC(kernel='linear')_.png>
-Package pdftex.def Info: ../figs/../figs/fig_liar_content_title/_ngram_3_SVC(kernel='linear')_.png  used on input line 23.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-
-Overfull \hbox (43.38387pt too wide) in paragraph at lines 23--24
- [][] 
- []
-
-<../figs/../figs/fig_liar_content_title/_ngram_2_DecisionTreeClassifier()_.png, id=251, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_liar_content_title/_ngram_2_DecisionTreeClassifier()_.png Graphic file (type png)
-<use ../figs/../figs/fig_liar_content_title/_ngram_2_DecisionTreeClassifier()_.png>
-Package pdftex.def Info: ../figs/../figs/fig_liar_content_title/_ngram_2_DecisionTreeClassifier()_.png  used on input line 31.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-
-Overfull \hbox (43.38387pt too wide) in paragraph at lines 31--32
- [][] 
- []
-
-<../figs/../figs/fig_liar_content_title/_ngram_3_DecisionTreeClassifier()_.png, id=252, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_liar_content_title/_ngram_3_DecisionTreeClassifier()_.png Graphic file (type png)
-<use ../figs/../figs/fig_liar_content_title/_ngram_3_DecisionTreeClassifier()_.png>
-Package pdftex.def Info: ../figs/../figs/fig_liar_content_title/_ngram_3_DecisionTreeClassifier()_.png  used on input line 36.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-
-Overfull \hbox (43.38387pt too wide) in paragraph at lines 36--37
- [][] 
- []
-
-<../figs/../figs/fig_liar_content_title/_ngramKNN_2k=1.png, id=253, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_liar_content_title/_ngramKNN_2k=1.png Graphic file (type png)
-<use ../figs/../figs/fig_liar_content_title/_ngramKNN_2k=1.png>
-Package pdftex.def Info: ../figs/../figs/fig_liar_content_title/_ngramKNN_2k=1.png  used on input line 41.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-
-Overfull \hbox (43.38387pt too wide) in paragraph at lines 41--42
- [][] 
- []
-
-<../figs/../figs/fig_liar_content_title/_ngramKNN_2k=3.png, id=254, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_liar_content_title/_ngramKNN_2k=3.png Graphic file (type png)
+File: ../figs/../figs/fig_liar_content_title/_ngramKNN_2k=3.png Graphic file (t
+ype png)
 <use ../figs/../figs/fig_liar_content_title/_ngramKNN_2k=3.png>
-Package pdftex.def Info: ../figs/../figs/fig_liar_content_title/_ngramKNN_2k=3.png  used on input line 46.
+Package pdftex.def Info: ../figs/../figs/fig_liar_content_title/_ngramKNN_2k=3.
+png  used on input line 46.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
 Overfull \hbox (43.38387pt too wide) in paragraph at lines 46--47
  [][] 
  []
 
-<../figs/../figs/fig_liar_content_title/_ngramKNN_2k=5.png, id=255, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_liar_content_tkage pdftex.def Info: ../figs/../figs/fig_liar_content_title/_KNN_10.png  us
+<../figs/../figs/fig_liar_content_title/_ngramKNN_2k=5.png, id=255, 462.528pt x
+ 346.896pt>
+File: ../figs/../figs/fig_liar_content_title/_ngramKNN_2k=5.png Graphic file (t
+ype png)
+<use ../figs/../figs/fig_liar_content_title/_ngramKNN_2k=5.png>
+Package pdftex.def Info: ../figs/../figs/fig_liar_content_title/_ngramKNN_2k=5.
+png  used on input line 54.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 54--55
+ [][] 
+ []
+
+<../figs/../figs/fig_liar_content_title/_ngramKNN_2k=7.png, id=256, 462.528pt x
+ 346.896pt>
+File: ../figs/../figs/fig_liar_content_title/_ngramKNN_2k=7.png Graphic file (t
+ype png)
+<use ../figs/../figs/fig_liar_content_title/_ngramKNN_2k=7.png>
+Package pdftex.def Info: ../figs/../figs/fig_liar_content_title/_ngramKNN_2k=7.
+png  used on input line 59.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 59--60
+ [][] 
+ []
+
+<../figs/../figs/fig_liar_content_title/_ngramKNN_2k=10.png, id=257, 462.528pt 
+x 346.896pt>
+File: ../figs/../figs/fig_liar_content_title/_ngramKNN_2k=10.png Graphic file (
+type png)
+<use ../figs/../figs/fig_liar_content_title/_ngramKNN_2k=10.png>
+Package pdftex.def Info: ../figs/../figs/fig_liar_content_title/_ngramKNN_2k=10
+.png  used on input line 64.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 64--65
+ [][] 
+ []
+
+<../figs/../figs/fig_liar_content_title/_ngramKNN_3k=1.png, id=258, 462.528pt x
+ 346.896pt>
+File: ../figs/../figs/fig_liar_content_title/_ngramKNN_3k=1.png Graphic file (t
+ype png)
+<use ../figs/../figs/fig_liar_content_title/_ngramKNN_3k=1.png>
+Package pdftex.def Info: ../figs/../figs/fig_liar_content_title/_ngramKNN_3k=1.
+png  used on input line 69.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 69--70
+ [][] 
+ []
+
+<../figs/../figs/fig_liar_content_title/_ngramKNN_3k=3.png, id=259, 462.528pt x
+ 346.896pt>
+File: ../figs/../figs/fig_liar_content_title/_ngramKNN_3k=3.png Graphic file (t
+ype png)
+<use ../figs/../figs/fig_liar_content_title/_ngramKNN_3k=3.png>
+Package pdftex.def Info: ../figs/../figs/fig_liar_content_title/_ngramKNN_3k=3.
+png  used on input line 77.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 77--78
+ [][] 
+ []
+
+<../figs/../figs/fig_liar_content_title/_ngramKNN_3k=5.png, id=260, 462.528pt x
+ 346.896pt>
+File: ../figs/../figs/fig_liar_content_title/_ngramKNN_3k=5.png Graphic file (t
+ype png)
+<use ../figs/../figs/fig_liar_content_title/_ngramKNN_3k=5.png>
+Package pdftex.def Info: ../figs/../figs/fig_liar_content_title/_ngramKNN_3k=5.
+png  used on input line 82.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 82--83
+ [][] 
+ []
+
+<../figs/../figs/fig_liar_content_title/_ngramKNN_3k=7.png, id=261, 462.528pt x
+ 346.896pt>
+File: ../figs/../figs/fig_liar_content_title/_ngramKNN_3k=7.png Graphic file (t
+ype png)
+<use ../figs/../figs/fig_liar_content_title/_ngramKNN_3k=7.png>
+Package pdftex.def Info: ../figs/../figs/fig_liar_content_title/_ngramKNN_3k=7.
+png  used on input line 87.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 87--88
+ [][] 
+ []
+
+<../figs/../figs/fig_liar_content_title/_ngramKNN_3k=10.png, id=262, 462.528pt 
+x 346.896pt>
+File: ../figs/../figs/fig_liar_content_title/_ngramKNN_3k=10.png Graphic file (
+type png)
+<use ../figs/../figs/fig_liar_content_title/_ngramKNN_3k=10.png>
+Package pdftex.def Info: ../figs/../figs/fig_liar_content_title/_ngramKNN_3k=10
+.png  used on input line 92.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 92--93
+ [][] 
+ []
+
+<../figs/../figs/fig_liar_content_title/_TFIDF_LogisticRegression(solver='sag')
+_.png, id=263, 462.528pt x 346.896pt>
+File: ../figs/../figs/fig_liar_content_title/_TFIDF_LogisticRegression(solver='
+sag')_.png Graphic file (type png)
+<use ../figs/../figs/fig_liar_content_title/_TFIDF_LogisticRegression(solver='s
+ag')_.png>
+Package pdftex.def Info: ../figs/../figs/fig_liar_content_title/_TFIDF_Logistic
+Regression(solver='sag')_.png  used on input line 100.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 100--101
+ [][] 
+ []
+
+<../figs/../figs/fig_liar_content_title/_TFIDF_SVC(kernel='linear')_.png, id=26
+4, 462.528pt x 346.896pt>
+File: ../figs/../figs/fig_liar_content_title/_TFIDF_SVC(kernel='linear')_.png G
+raphic file (type png)
+<use ../figs/../figs/fig_liar_content_title/_TFIDF_SVC(kernel='linear')_.png>
+Package pdftex.def Info: ../figs/../figs/fig_liar_content_title/_TFIDF_SVC(kern
+el='linear')_.png  used on input line 105.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 105--106
+ [][] 
+ []
+
+<../figs/../figs/fig_liar_content_title/_TFIDF_DecisionTreeClassifier()_.png, i
+d=265, 462.528pt x 346.896pt>
+File: ../figs/../figs/fig_liar_content_title/_TFIDF_DecisionTreeClassifier()_.p
+ng Graphic file (type png)
+<use ../figs/../figs/fig_liar_content_title/_TFIDF_DecisionTreeClassifier()_.pn
+g>
+Package pdftex.def Info: ../figs/../figs/fig_liar_content_title/_TFIDF_Decision
+TreeClassifier()_.png  used on input line 110.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 110--111
+ [][] 
+ []
+
+<../figs/../figs/fig_liar_content_title/_KNN_1.png, id=266, 462.528pt x 346.896
+pt>
+File: ../figs/../figs/fig_liar_content_title/_KNN_1.png Graphic file (type png)
+
+<use ../figs/../figs/fig_liar_content_title/_KNN_1.png>
+Package pdftex.def Info: ../figs/../figs/fig_liar_content_title/_KNN_1.png  use
+d on input line 115.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 115--116
+ [][] 
+ []
+
+<../figs/../figs/fig_liar_content_title/_KNN_3.png, id=267, 462.528pt x 346.896
+pt>
+File: ../figs/../figs/fig_liar_content_title/_KNN_3.png Graphic file (type png)
+
+<use ../figs/../figs/fig_liar_content_title/_KNN_3.png>
+Package pdftex.def Info: ../figs/../figs/fig_liar_content_title/_KNN_3.png  use
+d on input line 123.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 123--124
+ [][] 
+ []
+
+<../figs/../figs/fig_liar_content_title/_KNN_5.png, id=268, 462.528pt x 346.896
+pt>
+File: ../figs/../figs/fig_liar_content_title/_KNN_5.png Graphic file (type png)
+
+<use ../figs/../figs/fig_liar_content_title/_KNN_5.png>
+Package pdftex.def Info: ../figs/../figs/fig_liar_content_title/_KNN_5.png  use
+d on input line 128.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 128--129
+ [][] 
+ []
+
+<../figs/../figs/fig_liar_content_title/_KNN_7.png, id=269, 462.528pt x 346.896
+pt>
+File: ../figs/../figs/fig_liar_content_title/_KNN_7.png Graphic file (type png)
+
+<use ../figs/../figs/fig_liar_content_title/_KNN_7.png>
+Package pdftex.def Info: ../figs/../figs/fig_liar_content_title/_KNN_7.png  use
+d on input line 133.
+(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
+
+Overfull \hbox (43.38387pt too wide) in paragraph at lines 133--134
+ [][] 
+ []
+
+<../figs/../figs/fig_liar_content_title/_KNN_10.png, id=270, 462.528pt x 346.89
+6pt>
+File: ../figs/../figs/fig_liar_content_title/_KNN_10.png Graphic file (type png
+)
+<use ../figs/../figs/fig_liar_content_title/_KNN_10.png>
+Package pdftex.def Info: ../figs/../figs/fig_liar_content_title/_KNN_10.png  us
 ed on input line 138.
 (pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
 
@@ -2090,176 +2686,6 @@ Here is how much of TeX's memory you used:
 usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></us
 r/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
 Output written on main.pdf (12 pages, 2371675 bytes).
-PDF statistics:
- 378 PDF objects out of 1000 (max. 8388607)
- 72 compressed objects within 1 object stream
- 25 named destinations out of 1000 (max. 500000)
- 15057 words of extra memory for PDF output out of 17280 (max. 10000000)
-
-igs/fig_liar_title/_ngramKNN_2k=7.png  used on input line 59.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-
-Overfull \hbox (43.38387pt too wide) in paragraph at lines 59--60
- [][] 
- []
-
-<../figs/../figs/fig_liar_title/_ngramKNN_2k=10.png, id=315, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_liar_title/_ngramKNN_2k=10.png Graphic file (type png)
-<use ../figs/../figs/fig_liar_title/_ngramKNN_2k=10.png>
-Package pdftex.def Info: ../figs/../figs/fig_liar_title/_ngramKNN_2k=10.png  used on input line 64.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-
-Overfull \hbox (43.38387pt too wide) in paragraph at lines 64--65
- [][] 
- []
-
-<../figs/../figs/fig_liar_title/_ngramKNN_3k=1.png, id=316, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_liar_title/_ngramKNN_3k=1.png Graphic file (type png)
-<use ../figs/../figs/fig_liar_title/_ngramKNN_3k=1.png>
-Package pdftex.def Info: ../figs/../figs/fig_liar_title/_ngramKNN_3k=1.png  used on input line 69.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-
-Overfull \hbox (43.38387pt too wide) in paragraph at lines 69--70
- [][] 
- []
-
-<../figs/../figs/fig_liar_title/_ngramKNN_3k=3.png, id=317, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_liar_title/_ngramKNN_3k=3.png Graphic file (type png)
-<use ../figs/../figs/fig_liar_title/_ngramKNN_3k=3.png>
-Package pdftex.def Info: ../figs/../figs/fig_liar_title/_ngramKNN_3k=3.png  used on input line 77.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-
-Overfull \hbox (43.38387pt too wide) in paragraph at lines 77--78
- [][] 
- []
-
-<../figs/../figs/fig_liar_title/_ngramKNN_3k=5.png, id=318, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_liar_title/_ngramKNN_3k=5.png Graphic file (type png)
-<use ../figs/../figs/fig_liar_title/_ngramKNN_3k=5.png>
-Package pdftex.def Info: ../figs/../figs/fig_liar_title/_ngramKNN_3k=5.png  used on input line 82.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-
-Overfull \hbox (43.38387pt too wide) in paragraph at lines 82--83
- [][] 
- []
-
-<../figs/../figs/fig_liar_title/_ngramKNN_3k=7.png, id=319, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_liar_title/_ngramKNN_3k=7.png Graphic file (type png)
-<use ../figs/../figs/fig_liar_title/_ngramKNN_3k=7.png>
-Package pdftex.def Info: ../figs/../figs/fig_liar_title/_ngramKNN_3k=7.png  used on input line 87.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-
-Overfull \hbox (43.38387pt too wide) in paragraph at lines 87--88
- [][] 
- []
-
-<../figs/../figs/fig_liar_title/_ngramKNN_3k=10.png, id=320, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_liar_title/_ngramKNN_3k=10.png Graphic file (type png)
-<use ../figs/../figs/fig_liar_title/_ngramKNN_3k=10.png>
-Package pdftex.def Info: ../figs/../figs/fig_liar_title/_ngramKNN_3k=10.png  used on input line 92.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-
-Overfull \hbox (43.38387pt too wide) in paragraph at lines 92--93
- [][] 
- []
-
-<../figs/../figs/fig_liar_title/_TFIDF_LogisticRegression(solver='sag')_.png, id=321, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_liar_title/_TFIDF_LogisticRegression(solver='sag')_.png Graphic file (type png)
-<use ../figs/../figs/fig_liar_title/_TFIDF_LogisticRegression(solver='sag')_.png>
-Package pdftex.def Info: ../figs/../figs/fig_liar_title/_TFIDF_LogisticRegression(solver='sag')_.png  used on input line 100.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-
-Overfull \hbox (43.38387pt too wide) in paragraph at lines 100--101
- [][] 
- []
-
-<../figs/../figs/fig_liar_title/_TFIDF_SVC(kernel='linear')_.png, id=322, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_liar_title/_TFIDF_SVC(kernel='linear')_.png Graphic file (type png)
-<use ../figs/../figs/fig_liar_title/_TFIDF_SVC(kernel='linear')_.png>
-Package pdftex.def Info: ../figs/../figs/fig_liar_title/_TFIDF_SVC(kernel='linear')_.png  used on input line 105.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-
-Overfull \hbox (43.38387pt too wide) in paragraph at lines 105--106
- [][] 
- []
-
-<../figs/../figs/fig_liar_title/_TFIDF_DecisionTreeClassifier()_.png, id=323, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_liar_title/_TFIDF_DecisionTreeClassifier()_.png Graphic file (type png)
-<use ../figs/../figs/fig_liar_title/_TFIDF_DecisionTreeClassifier()_.png>
-Package pdftex.def Info: ../figs/../figs/fig_liar_title/_TFIDF_DecisionTreeClassifier()_.png  used on input line 110.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-
-Overfull \hbox (43.38387pt too wide) in paragraph at lines 110--111
- [][] 
- []
-
-<../figs/../figs/fig_liar_title/_KNN_1.png, id=324, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_liar_title/_KNN_1.png Graphic file (type png)
-<use ../figs/../figs/fig_liar_title/_KNN_1.png>
-Package pdftex.def Info: ../figs/../figs/fig_liar_title/_KNN_1.png  used on input line 115.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-
-Overfull \hbox (43.38387pt too wide) in paragraph at lines 115--116
- [][] 
- []
-
-<../figs/../figs/fig_liar_title/_KNN_3.png, id=325, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_liar_title/_KNN_3.png Graphic file (type png)
-<use ../figs/../figs/fig_liar_title/_KNN_3.png>
-Package pdftex.def Info: ../figs/../figs/fig_liar_title/_KNN_3.png  used on input line 123.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-
-Overfull \hbox (43.38387pt too wide) in paragraph at lines 123--124
- [][] 
- []
-
-<../figs/../figs/fig_liar_title/_KNN_5.png, id=326, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_liar_title/_KNN_5.png Graphic file (type png)
-<use ../figs/../figs/fig_liar_title/_KNN_5.png>
-Package pdftex.def Info: ../figs/../figs/fig_liar_title/_KNN_5.png  used on input line 128.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-
-Overfull \hbox (43.38387pt too wide) in paragraph at lines 128--129
- [][] 
- []
-
-<../figs/../figs/fig_liar_title/_KNN_7.png, id=327, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_liar_title/_KNN_7.png Graphic file (type png)
-<use ../figs/../figs/fig_liar_title/_KNN_7.png>
-Package pdftex.def Info: ../figs/../figs/fig_liar_title/_KNN_7.png  used on input line 133.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-
-Overfull \hbox (43.38387pt too wide) in paragraph at lines 133--134
- [][] 
- []
-
-<../figs/../figs/fig_liar_title/_KNN_10.png, id=328, 462.528pt x 346.896pt>
-File: ../figs/../figs/fig_liar_title/_KNN_10.png Graphic file (type png)
-<use ../figs/../figs/fig_liar_title/_KNN_10.png>
-Package pdftex.def Info: ../figs/../figs/fig_liar_title/_KNN_10.png  used on input line 138.
-(pdftex.def)             Requested size: 161.88722pt x 121.4154pt.
-
-Overfull \hbox (43.38387pt too wide) in paragraph at lines 138--139
- [][] 
- []
-
-
-LaTeX Warning: Float too large for page by 54.44475pt on input line 142.
-
-) [12 </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_ngram_2_LogisticRegression(solver='sag')_.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_ngram_3_LogisticRegression(max_iter=10000, n_jobs=-1, solver='saga')_.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_ngram_2_SVC(kernel='linear')_.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_ngram_3_SVC(kernel='linear')_.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_ngram_2_DecisionTreeClassifier()_.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_ngram_3_DecisionTreeClassifier()_.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_ngramKNN_2k=1.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_ngramKNN_2k=3.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_ngramKNN_2k=5.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_ngramKNN_2k=7.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_ngramKNN_2k=10.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_ngramKNN_3k=1.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_ngramKNN_3k=3.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_ngramKNN_3k=5.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_ngramKNN_3k=7.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_ngramKNN_3k=10.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_TFIDF_LogisticRegression(solver='sag')_.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_TFIDF_SVC(kernel='linear')_.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_TFIDF_DecisionTreeClassifier()_.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_KNN_1.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_KNN_3.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_KNN_5.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_KNN_7.png> </Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_KNN_10.png>] (/Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/main.aux)
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
- ) 
-Here is how much of TeX's memory you used:
- 16300 strings out of 478994
- 297515 string characters out of 5858183
- 690586 words of memory out of 5000000
- 33338 multiletter control sequences out of 15000+600000
- 409053 words of font info for 54 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 71i,9n,75p,420b,621s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on "/Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/main.pdf" (12 pages, 2371675 bytes).
 PDF statistics:
  378 PDF objects out of 1000 (max. 8388607)
  72 compressed objects within 1 object stream

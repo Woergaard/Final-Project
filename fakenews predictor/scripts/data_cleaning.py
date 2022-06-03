@@ -21,7 +21,7 @@ data = data.reset_index(drop = True)
 data = data.drop_duplicates(subset = ['content'])
 data = data.reset_index(drop = True)
 
-data = data.sample(100000, random_state=44)
+data = data.sample(75000, random_state=44)
 data = data.reset_index(drop = True)
 
 data['label'] = [1 if data['type'].iloc[x] in ['fake','conspiracy','unreliable','junksci', 'rumor'] else 0 for x in range(len(data['type']))]
