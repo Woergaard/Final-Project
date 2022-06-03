@@ -34,4 +34,4 @@ Where `databasename` is the name of the database you have just created and `data
 To run the fake news predictors we have developed the only thing you have to do is to make sure that the requirements in the `fakenews predictor/requirements.txt` file are met and then run the file `run.py`. When the file has terminated the models have been trained and the file `fakenews predictor/tex/main.pdf` contains an overview of model results across all models. 
 
 ## Results 
-
+The accuracy of the models trained on the FakeNewsCorpus can be seen below. Furthermore we have tested the cross-domain performance against the LIAR dataset. The result show overall that 
