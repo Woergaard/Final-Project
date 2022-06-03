@@ -35,3 +35,5 @@ To run the fake news predictors we have developed the only thing you have to do 
 
 ## Results 
 The accuracy of the models trained on the FakeNewsCorpus can be seen below. Furthermore we have tested the cross-domain performance against the LIAR dataset. The result show overall that 
+
+![plot]("fakenews predictor/figs/final_table.png")
