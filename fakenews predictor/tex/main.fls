@@ -930,12 +930,17 @@ INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/.
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content.tex
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_content.tex
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content.tex
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_content/fig_ngram_2_LogisticRegression(solver='sag')__content.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_content/fig_ngram_2_LogisticRegression(solver='sag')__content.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_ngram_2_LogisticRegression(solver='sag')__content.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_ngram_2_LogisticRegression(solver='sag')__content.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_ngram_2_LogisticRegression(solver='sag')__content.png
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_content/fig_TFIDF_LogisticRegression(solver='sag')__content.png
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_content/fig_TFIDF_LogisticRegression(solver='sag')__content.png
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_TFIDF_LogisticRegression(solver='sag')__content.png
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_TFIDF_LogisticRegression(solver='sag')__content.png
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_TFIDF_LogisticRegression(solver='sag')__content.png
 INPUT /usr/local/texlive/2021/texmf-dist/fonts/tfm/jknappen/ec/ecrm0900.tfm
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_content/fig_ngram_2_LogisticRegression(solver='sag')__content.png
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_content/fig_ngram_2_LogisticRegression(solver='sag')__content.png
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_ngram_2_LogisticRegression(solver='sag')__content.png
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_ngram_2_LogisticRegression(solver='sag')__content.png
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_ngram_2_LogisticRegression(solver='sag')__content.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_content/fig_ngram_3_LogisticRegression(max_iter=10000, n_jobs=-1, solver='saga')__content.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_content/fig_ngram_3_LogisticRegression(max_iter=10000, n_jobs=-1, solver='saga')__content.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_ngram_3_LogisticRegression(max_iter=10000, n_jobs=-1, solver='saga')__content.png
@@ -1015,7 +1020,6 @@ INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/.
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_content/fig_TFIDF_LogisticRegression(solver='sag')__content.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_TFIDF_LogisticRegression(solver='sag')__content.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_TFIDF_LogisticRegression(solver='sag')__content.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_TFIDF_LogisticRegression(solver='sag')__content.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_content/fig_TFIDF_SVC(kernel='linear')__content.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_content/fig_TFIDF_SVC(kernel='linear')__content.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_TFIDF_SVC(kernel='linear')__content.png
@@ -1046,11 +1050,6 @@ INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/.
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_KNN_7_content.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_KNN_7_content.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_KNN_7_content.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_content/fig_KNN_10_content.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_content/fig_KNN_10_content.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_KNN_10_content.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_KNN_10_content.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content/fig_KNN_10_content.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../tables/table_content_title.tex
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../tables/../tables/table_content_title.tex
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../tables/table_content_title.tex
@@ -1059,6 +1058,11 @@ INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/.
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content_title.tex
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_content_title.tex
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content_title.tex
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_content_title/fig_TFIDF_LogisticRegression(solver='sag')__content_title.png
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_content_title/fig_TFIDF_LogisticRegression(solver='sag')__content_title.png
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content_title/fig_TFIDF_LogisticRegression(solver='sag')__content_title.png
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content_title/fig_TFIDF_LogisticRegression(solver='sag')__content_title.png
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content_title/fig_TFIDF_LogisticRegression(solver='sag')__content_title.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_content_title/fig_ngram_2_LogisticRegression(solver='sag')__content_title.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_content_title/fig_ngram_2_LogisticRegression(solver='sag')__content_title.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content_title/fig_ngram_2_LogisticRegression(solver='sag')__content_title.png
@@ -1143,7 +1147,6 @@ INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/.
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_content_title/fig_TFIDF_LogisticRegression(solver='sag')__content_title.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content_title/fig_TFIDF_LogisticRegression(solver='sag')__content_title.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content_title/fig_TFIDF_LogisticRegression(solver='sag')__content_title.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content_title/fig_TFIDF_LogisticRegression(solver='sag')__content_title.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_content_title/fig_TFIDF_SVC(kernel='linear')__content_title.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_content_title/fig_TFIDF_SVC(kernel='linear')__content_title.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content_title/fig_TFIDF_SVC(kernel='linear')__content_title.png
@@ -1174,11 +1177,6 @@ INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/.
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content_title/fig_KNN_7_content_title.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content_title/fig_KNN_7_content_title.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content_title/fig_KNN_7_content_title.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_content_title/fig_KNN_10_content_title.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_content_title/fig_KNN_10_content_title.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content_title/fig_KNN_10_content_title.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content_title/fig_KNN_10_content_title.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_content_title/fig_KNN_10_content_title.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../tables/table_title.tex
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../tables/../tables/table_title.tex
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../tables/table_title.tex
@@ -1187,6 +1185,11 @@ INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/.
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title.tex
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_title.tex
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title.tex
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_title/fig_TFIDF_LogisticRegression(solver='sag')__title.png
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_title/fig_TFIDF_LogisticRegression(solver='sag')__title.png
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_TFIDF_LogisticRegression(solver='sag')__title.png
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_TFIDF_LogisticRegression(solver='sag')__title.png
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_TFIDF_LogisticRegression(solver='sag')__title.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_title/fig_ngram_2_LogisticRegression(solver='sag')__title.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_title/fig_ngram_2_LogisticRegression(solver='sag')__title.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_ngram_2_LogisticRegression(solver='sag')__title.png
@@ -1271,7 +1274,6 @@ INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/.
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_title/fig_TFIDF_LogisticRegression(solver='sag')__title.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_TFIDF_LogisticRegression(solver='sag')__title.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_TFIDF_LogisticRegression(solver='sag')__title.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_TFIDF_LogisticRegression(solver='sag')__title.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_title/fig_TFIDF_SVC(kernel='linear')__title.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_title/fig_TFIDF_SVC(kernel='linear')__title.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_TFIDF_SVC(kernel='linear')__title.png
@@ -1302,11 +1304,6 @@ INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/.
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_KNN_7_title.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_KNN_7_title.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_KNN_7_title.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_title/fig_KNN_10_title.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_title/fig_KNN_10_title.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_KNN_10_title.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_KNN_10_title.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_title/fig_KNN_10_title.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../tables/table_liar_content.tex
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../tables/../tables/table_liar_content.tex
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../tables/table_liar_content.tex
@@ -1315,6 +1312,11 @@ INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/.
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content.tex
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_liar_content.tex
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content.tex
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_liar_content/_TFIDF_LogisticRegression(solver='sag')_.png
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_liar_content/_TFIDF_LogisticRegression(solver='sag')_.png
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_TFIDF_LogisticRegression(solver='sag')_.png
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_TFIDF_LogisticRegression(solver='sag')_.png
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_TFIDF_LogisticRegression(solver='sag')_.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_liar_content/_ngram_2_LogisticRegression(solver='sag')_.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_liar_content/_ngram_2_LogisticRegression(solver='sag')_.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_ngram_2_LogisticRegression(solver='sag')_.png
@@ -1399,7 +1401,6 @@ INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/.
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_liar_content/_TFIDF_LogisticRegression(solver='sag')_.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_TFIDF_LogisticRegression(solver='sag')_.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_TFIDF_LogisticRegression(solver='sag')_.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_TFIDF_LogisticRegression(solver='sag')_.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_liar_content/_TFIDF_SVC(kernel='linear')_.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_liar_content/_TFIDF_SVC(kernel='linear')_.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_TFIDF_SVC(kernel='linear')_.png
@@ -1430,11 +1431,6 @@ INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/.
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_KNN_7.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_KNN_7.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_KNN_7.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_liar_content/_KNN_10.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_liar_content/_KNN_10.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_KNN_10.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_KNN_10.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content/_KNN_10.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../tables/table_liar_content_title.tex
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../tables/../tables/table_liar_content_title.tex
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../tables/table_liar_content_title.tex
@@ -1443,6 +1439,11 @@ INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/.
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content_title.tex
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_liar_content_title.tex
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content_title.tex
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_liar_content_title/_TFIDF_LogisticRegression(solver='sag')_.png
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_liar_content_title/_TFIDF_LogisticRegression(solver='sag')_.png
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content_title/_TFIDF_LogisticRegression(solver='sag')_.png
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content_title/_TFIDF_LogisticRegression(solver='sag')_.png
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content_title/_TFIDF_LogisticRegression(solver='sag')_.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_liar_content_title/_ngram_2_LogisticRegression(solver='sag')_.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_liar_content_title/_ngram_2_LogisticRegression(solver='sag')_.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content_title/_ngram_2_LogisticRegression(solver='sag')_.png
@@ -1527,7 +1528,6 @@ INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/.
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_liar_content_title/_TFIDF_LogisticRegression(solver='sag')_.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content_title/_TFIDF_LogisticRegression(solver='sag')_.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content_title/_TFIDF_LogisticRegression(solver='sag')_.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content_title/_TFIDF_LogisticRegression(solver='sag')_.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_liar_content_title/_TFIDF_SVC(kernel='linear')_.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_liar_content_title/_TFIDF_SVC(kernel='linear')_.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content_title/_TFIDF_SVC(kernel='linear')_.png
@@ -1558,11 +1558,6 @@ INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/.
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content_title/_KNN_7.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content_title/_KNN_7.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content_title/_KNN_7.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_liar_content_title/_KNN_10.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_liar_content_title/_KNN_10.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content_title/_KNN_10.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content_title/_KNN_10.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_content_title/_KNN_10.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../tables/table_liar_title.tex
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../tables/../tables/table_liar_title.tex
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../tables/table_liar_title.tex
@@ -1571,6 +1566,11 @@ INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/.
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title.tex
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_liar_title.tex
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title.tex
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_liar_title/_TFIDF_LogisticRegression(solver='sag')_.png
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_liar_title/_TFIDF_LogisticRegression(solver='sag')_.png
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_TFIDF_LogisticRegression(solver='sag')_.png
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_TFIDF_LogisticRegression(solver='sag')_.png
+INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_TFIDF_LogisticRegression(solver='sag')_.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_liar_title/_ngram_2_LogisticRegression(solver='sag')_.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_liar_title/_ngram_2_LogisticRegression(solver='sag')_.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_ngram_2_LogisticRegression(solver='sag')_.png
@@ -1655,7 +1655,6 @@ INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/.
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_liar_title/_TFIDF_LogisticRegression(solver='sag')_.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_TFIDF_LogisticRegression(solver='sag')_.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_TFIDF_LogisticRegression(solver='sag')_.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_TFIDF_LogisticRegression(solver='sag')_.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_liar_title/_TFIDF_SVC(kernel='linear')_.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_liar_title/_TFIDF_SVC(kernel='linear')_.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_TFIDF_SVC(kernel='linear')_.png
@@ -1686,11 +1685,6 @@ INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/.
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_KNN_7.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_KNN_7.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_KNN_7.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_liar_title/_KNN_10.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/fig_liar_title/_KNN_10.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_KNN_10.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_KNN_10.png
-INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/../figs/../figs/fig_liar_title/_KNN_10.png
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/main.aux
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/main.out
 INPUT /Users/thomaskjaer/Downloads/github/Final-Project/fakenews predictor/tex/main.out
