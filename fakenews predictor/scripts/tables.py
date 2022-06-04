@@ -6,7 +6,7 @@ liste = ["_TFIDF_LogisticRegression(solver='sag')_",
         "_KNN_3", 
         "_KNN_5", 
         "_KNN_7", 
-        "_KNN_10"
+        "_KNN_10",
         "_TFIDF_DecisionTreeClassifier()_", 
         "_TFIDF_SVC(kernel='linear')_", 
         "_ngram_2_LogisticRegression(solver='sag')_",
