@@ -33,20 +33,8 @@ Where `databasename` is the name of the database you have just created and `data
 
 To run the fake news predictors we have developed the only thing you have to do is to make sure that the requirements in the `fakenews predictor/requirements.txt` file are met and then run the file `run.py`. When the file has terminated the models have been trained and the file `fakenews predictor/tex/main.pdf` contains an overview of model results across all models. 
 
-## Vectorizers 
-
-![TF-IDF vectorizer](https://github.com/Woergaard/Final-Project/blob/main/fakenews%20predictor/div/tfidf.png)
-
-
-![Count vectorizer](https://github.com/Woergaard/Final-Project/blob/main/fakenews%20predictor/div/countvectorizer.png)
-
-
-## Classifyers 
-
-
-## Measurements
 
 ## Results 
-The accuracy of the models trained on the FakeNewsCorpus can be seen below. Furthermore we have tested the cross-domain performance against the LIAR dataset. The result show overall that 
+The accuracy of the models trained on the FakeNewsCorpus can be seen below. Furthermore we have tested the cross-domain performance against the LIAR dataset. As a baseline model we use logistic regression (LR) with a bigram vectorization of the corpus. We further develop a multitude of models making used of TF-IDF, bigram and trigram vectorization combined with classification using $k$-Nearest Neighbours (KNN), Decision Trees (DTC) and Support Vector Machines (SVM) to see if we can be improve the accuracy of prediction compared to the baseline model. The accuracy of the baseline model on the dataset without metadata is 0.871 i.e. 87.1% with an F1-score of 0.843. The best performing model on the dataset without metadata is a model which makes use of TF-IDF vectorization and SVM. The  accuracy of this model is 0.916 i.e. 91.6% with an F1-score of 0.903. These models have been trained and tested on a subset of 75.000 randomly chosen articles of the FakeNewsCorpus. Cross domain performance is tested on the LIAR dataset and shows a decline in performance overall. The accuracy of the baseline model is 0.719 i.e. 71.9% with an F1-score of 0.421. We find that even though 71.9% might seem reasonable it may be misleading as there is a large type II error (false negatives) for all models when predicting i.e. when the true label of the article is FAKE the models predict that the article is REAL. This causes most of the models cross-domain accuracy to lie around 70\% which is close to the actual ratio of REAL/FAKE in the LIAR dataset.
 
 ![Table of results](https://github.com/Woergaard/Final-Project/blob/main/fakenews%20predictor/div/final_table.png)
